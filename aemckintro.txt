@@ -1,0 +1,2600 @@
+The Pakistan Atomic Energy Commission (PAEC) is the primary governmental body in Pakistan responsible for the peaceful use and development of nuclear energy and related technologies. Established in 1956, PAEC plays a pivotal role in various fields, including power generation, health, agriculture, research, and industry, while ensuring compliance with international safety and regulatory standards.PAEC has established a network of 19+ cancer treatment centers across the country, providingDiagnosis and treatment of cancer and other diseases.Nuclear medicine facilities.Radiation therapy services.Aemck is a pioneer cancer hospital of paec, established in 1960 at Jinnah post graduate medical center) jpmc . Atomic Energy Medical Center Karachi is the pioneer Medical Centre of PAEC, established in 1960 at the premises of JPMC, Karachi for provision of nuclear diagnostic and treatment facilities. It started in a two rooms barrack that were present at this place and with only a rectilinear scanner and a thyroid uptake probe. The facilities have been continually upgraded/ updated from time to time to keep pace with new requirements.
+In its previous status up to 2010, AEMC Karachi was providing diagnostic & partial treatment facilities to 3000 patients per month and the available equipment/building was quite insufficient to meet the ever increasing diagnostic and treatment requirements of the growing number of patients. Keeping in view these requirements, up gradation of the center and shifting to a new, larger building and replacement of old conventional equipment with new modern sophisticated equipment was planned in early 2000. Moreover, modern radiotherapy facilities that were critically needed to cater to the growing number of cancer patients. Up gradation of AEMC completed in due time and new modalities of cancer treatment as well as diagnosis were included namely Radiotherapy and its allied services, Brachytherapy and expansion of Clinical Lab Services.
+Thus at present AEMC Karachi has converted into a full-fledge tertiary care medical facility, providing services in sophisticated diagnosis at Nuclear Medicine  and Radiology departments as well as therapy by the use of Radiations at Radiotherapy and Brachytherapy departments.  In order to make these facilities available, AEMC uses various radioactive sources both natural and artificial. These include isotopes of Technetium, Iodine, Cobalt, Iridium, Barium, Caesium, Europium and Strontium. Other radiation generators comprise of Linear accelerators of Mega Voltage energy range, X-rays from diagnostic X-ray, CT Simulator, Mammography Unit and a conventional fluoroscopic radiotherapy Simulator. 
+Atomic Energy Medical Centre (AEMC) is located within the Jinnah Post-Graduate Medical Centre (J.P.M.C) premises, at Rafiqui Shaheed Road, Karachi. It neighbors to Ward-7 of JPMC opposite to Basic Medical Sciences Institute .SOP for Receiving I-131 Consignment & Record KeepingI-131 CONSIGNMENT RECORD
+Whenever Nuclear Medicine Technologist (NMT) is informed about the arrival of I-131 Consignment arrival, he/she must do the following in order and maintain its record as deemed necessary.
+1.Check whether Radioactive Consignment is Sealed or not. 
+a.	If sealed, record it on Receipt.
+b.	If Seal is broken go to step 3 directly.
+2.	Receive I-131 Consignment and acknowledge on Receipt.
+3.	Inform Duty Medical Physicist (DMP) for arrival of I-131 Consignment and Inspection and Radiation Exposure Survey of Radioactive Consignment.
+a.	DMP will survey the consignment and make a record.
+4.	Open the Consignment in presence of DMP. Collect its QC Certificate, Activity Report and other Documents.
+5.	Take out the I-131 Vial along with its shield from its Carrier Container and place it on its appropriate shielded place.
+6.	Fill out the form “I-131 Consignment & Consumption Record” in the “I-131 Consignment & Consumption Record Register”.9.	Cross Blank Lines in the Form. If Necessary, use Another Form for subsequent consumption (administration) and fill up its reference data too. Don’t leave any field Blank.
+10.	After completion, get this form Signed from DMP and Hand it over to him/her for further Signature of RPO and Filing Up the Record for future use.
+DMP-SOP for Elution Procedure of Tc-99m GeneratorA Nuclear Medicine Technologist (NMT) receives Tc-99m Generator and records its arrival. Generator is placed at its properly designated position. This proper position must be supervised by Duty Medical Physicist (DMP). In case of any problem regarding Positioning, Placement, Radiation Shielding and/or Radiation Safety, DMP must be approached. Afterwards, the Elution procedure is performed in following order.
+1.	Wear protective cloths (Disposable Polyethylene Apron, Latex Gloves etc).
+2.	Make sure Personal Film Badge is worn properly.
+3.	Wear special Lead Eye Goggles for eye protection.
+4.	Collect all Elution Equipments i.e. Evacuated Vial, Saline Vial, Forceps etc.
+5.	Make sure Elution Room is adequate in terms of Environment. There is sufficient Lightening, Air, Humidity and Temperature etc.
+6.	Note time and make an entry for record purposes in Tc-99m Elution Record Register.
+7.	Pierce Elution Vials on their respective needles accordingly. Check whether Elution starts automatically or not.
+a.	If yes, stay at a safe distance from elution System for sufficient time to complete the elution.
+b.	If not, call DMP.
+8.	After Elution, measure the eluted activity.
+9.	Calculate for the utilization of activity and make decision.
+10.	Make Radio labeled Kits respectively.
+11.	Distribute for administration.
+Further Instructions:
+Apart from above SOP, following instructions must also be practiced.
+1.	Adhere to Radiation Safety Practices through out the procedures.
+2.	Special care must be given to eye protection.
+3.	Lead goggle and other protective equipment are valuable both in terms of cost and usefulness offered. Use them vigilantly and carefully.
+4.	Inform Duty Medical Physicist for any problem.
+AEMC, like all other tertiary care hospitals functions six days a week for normal working hours. At present there is no facility for indoor treatments or Chemotherapy. However a small set of Isolation Rooms (Room#52 & Room#53) is managed for Radio-Iodine Ablation Therapy procedure. Moreover Human Resources details of AEMC are given in Table-2.
+Table 1: Official Timings of AEMC
+Day	Start	End
+Monday to Thursday & Saturday	0830	1430
+Friday	0830	1230
+Sunday	Closed	Closed
+Table 2: Working Strength of AEMC
+Location	Officers	Staff	Visitors Official / Other	Total
+Nuclear Medicine Department	6	15	Nil	21
+Radiotherapy Department	9	14	Nil	23
+Medical Physics Department 	9	0	Nil	9
+RIA/Clinical Laboratories	2	3	Nil	5
+Admin department	01	20	Nil	21
+Account	2	05		07
+Bio Medical department 	03	06	Nil	09
+Security	0	7	Nil	07
+Director	1	03		04
+Subtotal	33
+73
+Nil	106
+Total Number of Persons During Office Hours                                  106
+A brief of Radiation Sources is given in following table.
+Table 3: Types of Radiation and Maximum Strength
+Location	Radiation Generator	Source/Radiation Strength
+Hot Lab	Tc-99m	600 mCi (maximum)
+Hot Lab	I-131	200 mCi (maximum)
+Source Room	Co-57	10 mCi (maximum)
+Source Room	Sr-90	30 µCi (maximum)
+Brachytherapy Bunker	Ir-192	10 Ci (maximum)
+LINAC-I	Linear Accelerator	15 MV Photons
+LINAC-II	Linear Accelerator	6 MV Photons
+Conventional X-Ray	X-Ray Gun	150 kV
+CT Simulator	X-Ray Gun	150 kV
+Conventional Simulator	X-Ray Gun	100 kV
+Mammography	X-Ray Gun	50 kV
+PNRA-RG-904.02
+(Rev. 0)
+January, 2013
+GUIDANCE FOR THE USERS OF IODINE-131 IN NUCLEAR
+ MEDICINE CENTERS
+REGULATORY GUIDE
+ 
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+For Further Details 
+Directorate of Policies & Procedures
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+P.O. Box 1912, Islamabad
+www.pnra.org
+TABLE OF CONTENTS
+ABSTRACT .....................................................................................................................................................1
+1 INTRODUCTION ...............................................................................................................................2
+2. OBJECTIVE ........................................................................................................................................2
+3. SCOPE ..................................................................................................................................................2
+4. PRE-REQUISITES FOR PLANNING OF RADIO-IODINE FACILITY.......................................2
+4.1 DESIGN CONSIDERATION FOR FACILITY..............................................................................3
+4.2 GENERAL RECOMMENDATIONS ............................................................................................4
+4.3 DESIGN OF RADIOISOTOPE LABORATORY (HOT LAB).......................................................4
+4.4 DESIGN OF DISPENSING ROOM...............................................................................................6
+4.5 DESIGN OF ISOLATION ROOM .................................................................................................6
+4.6 STORAGE AND DISPOSAL OF RADIOACTIVE WASTE .........................................................7
+4.7 WARNING SIGNS AND LABELS ................................................................................................7
+5. PROCEDURE FOR HANDLING RADIO-IODINE.........................................................................7
+5.1 MINOR SPILLS.............................................................................................................................8
+5.2 MAJOR SPILLS.............................................................................................................................9
+6. DOSE ADMINISTRATION .............................................................................................................10
+6.1 PRECAUTIONARY MEASURES AFTER DOSE ADMINISTRATION....................................11
+7. DECONTAMINATION .....................................................................................................................11
+7.1 DECONTAMINATION OF PERSONNEL..................................................................................11
+7.2 DECONTAMINATION OF CLOTHING AND BEDDING.........................................................12
+7.3 DECONTAMINATION OF EQUIPMENT AND APPARATUS..................................................12
+7.4 DECONTAMINATION OF SURFACES AND FLOORS ............................................................13
+7.5 WIPE TEST..................................................................................................................................13
+8. VISITORS ACCESS CONTROL .....................................................................................................14
+9. RADIATION PROTECTION PROGRAM......................................................................................14
+10. EMERGENCY PROCEDURES .......................................................................................................15
+11. REFERENCES...................................................................................................................................16
+ANNEX-I........................................................................................................................................................17
+GUIDANCE FOR THE USERS OF IODINE-131 IN NUCLEAR MEDICINE
+CENTERS
+ABSTRACT
+This regulatory guide is developed to provide guidance to the users of Iodine-131 (I-131)
+which is mainly used in nuclear medicine centers for diagnostic and therapeutic purposes.
+This guide will be useful in implementation of regulatory requirements set under Section
+- 28(1) of PNRA regulations on radiation protection (PAK/904) and international safety
+standards set by ICRP through its Publication - 103. The effective implementation of
+these requirements would help to ensure protection of radiation workers, public,
+environment and patients from harmful effects of radiation.
+1
+1 INTRODUCTION
+Radio-iodine (I-131) is a gamma emitter which is used for diagnosis and treatment of
+thyroid carcinoma or hyperthyroidism. It is generally administered orally in liquid form in
+Pakistan. However, it is also available in capsule or caplet form in all over the world. Radiation
+dose to be administered to the patient for treatment of tumor is prescribed by a nuclear
+physician and it depends on many factors including tumor size, its location and staging etc.
+I-131 has been widely used in Nuclear Medicine Centers and its applications are largely
+beneficial for thyroid patients. The prime safety concern in the use of radioisotopes is that the
+patients, radiation workers and general public are not exposed to unnecessary radiation which
+is harmful to their health. While dealing with patients administered with I-131, all possible
+efforts should be made to minimize radiation exposure of the workers directly involved in
+administrating I-131 to the patients and to other workers and general public in and around the
+facility.
+This guide is issued under the provisions of section-28(1) of PNRA “Regulations on
+Radiation Protection” - PAK/904 [1]. It mainly addresses various safety measures which are
+required to be taken during planning, designing and construction of radio-iodine facility. It also
+focuses on arrangements for handling and storage of radio-iodine, dose administration, actions
+to be taken in case of its spillage, decontamination procedure,  storage of generated waste,
+visitors access control and radiation protection program of a facility.
+2 OBJECTIVE
+The objective of this regulatory guide is to provide guidance for protection of patients,
+radiation workers, general public, and the environment from undue exposure and harmful
+effects of I-131.
+3 SCOPE
+This regulatory guide contains guidance on radiation safety, handling, usage and storage
+of I-131 and is mainly applicable to the nuclear medicine centers involved in diagnostic and
+therapeutic use of radio-iodine.  The guide may also be used by the personnel involved in
+production of radio-iodine for medical and other industrial applications. 
+4 PRE-REQUISITES FOR PLANNING OF RADIO-IODINE FACILITY
+Proper planning of the facility ensures more efficient radiation protection and easier
+supervision. The design of the facility should always allow for modifications and extension to
+meet future needs. Radio-Iodine facilities serve as clinical department of the hospital and
+preferably should be located such that the access of unauthorized personnel is controlled.
+Common use of other facilities of Nuclear Medicine Department (such as dispensing room,
+measurement room, storage room, radioactive waste disposal/storage room, and radiation 
+2
+protection arrangements etc.) reasonably reduces the costs of construction and number of
+personnel required. 
+At planning stage, the radio-iodine facility should generally be categorized into
+following four groups:
+i. Laboratories and premises not frequented by patients, including rooms for the
+storage, preparation, and dispensing of radio-iodine (controlled area).
+ii. Premises frequented by patients, including rooms for administration of radio-iodine
+and for carrying out measurements on patients (controlled area).
+iii. Storage places for radioactive waste materials (controlled area).
+iv. Offices for doctors and other facility personnel (supervised area).
+4.1 Design Consideration for Facility
+Gamma emitters are commonly used in Nuclear Medicine Departments; therefore, the
+background radiation is generally elevated. Radiation workers are exposed not only to the
+radiation received in nursing or dispensing the patients with radiopharmaceuticals in the
+laboratory but also to the continuous background radiation.  Following recommendations
+should be considered in planning the radio-iodine facility to minimize the occupational
+exposure: 
+i. Unnecessary radiation exposures should be avoided.
+ii. Radiation dose received by the radiation worker should not exceed his annual dose
+limit of 20 mSv/year, as prescribed in PAK/904.
+An effort should be made to ensure that the exposure received by a radiation worker
+remaining continually in a radiation room should be as low as reasonably possible. If the
+exposure of a radiation worker approaches to maximum annual limit of a radiation worker, then
+he may not be allowed to continue work in radiation environment for the remaining year. In
+addition, Section 27 of PNRA regulations on radiation protection (PAK/904) and Publication
+103 of International Commission on Radiological Protection (ICRP) [2] recommend following
+conditions of work with respect to radiations:
+a. Conditions such that the resulting (effective) dose might exceed 3/10th of the annual
+dose limit of radiation worker (Controlled Area).
+b. Conditions such that the resulting (effective) dose is most unlikely to exceed 3/10th
+of the annual dose limit of radiation worker (Supervised Area).
+An important practical implication is that; under condition (a), the dose assessment of a
+radiation worker is usually based on individual monitoring for external radiations or internal
+contamination as appropriate; whereas under condition (b), workers may not require individual
+monitoring or special health supervision and it is sufficient in some cases to rely on area 
+3
+monitoring. If these factors are considered at planning stage, the initial design cost of the
+facility may increase, however, running cost of the facility which incur on account of  dose
+monitoring, health surveillance , and  provision of shielding equipments is reasonably reduced
+which in-turn compensate for initial design cost.
+ 
+It is recommended that planning and construction should be carried out on the basis of 
+assumption that there would be no area within the facility where the radiation workers can
+receive more than 10% of his average weekly dose limit i.e. the dose should not exceed 100
+Sv/week. As a result, the average dose will not be greater than 2 Sv/h in a working week of
+about 50 hours (as is often the case in hospitals).
+The radiation detection and measuring equipment used in the diagnostic measurement 
+rooms is usually very sensitive and may require extra shielding. Therefore, the background
+radiation level in such locations should be as low as that in the normal rooms e.g. about 0.1
+Gray/h.
+4.2 General Recommendations
+A standard Radio-Iodine Facility/Nuclear Medicine Center should have following
+features: 
+2
+i. All rooms should be spacious i.e. having about 10m  floor area [3].
+ii. The radio-pharmacy should be tidy and separate benches should be used for
+dispensing.
+iii. Separate areas/rooms should be designated for patients and staff.
+iv. Warning signs and instructions for visitors (particularly for pregnant women) should
+be prominently displayed in waiting area for the patients to whom radio-iodine is to
+be administered.
+v. Radiation warning signs and instructions should also be displayed in storage areas
+and dispensing rooms.
+vi. Isolation rooms should be available for admission of patients to whom therapeutic
+dose of radio-iodine is administered.
+vii. Radioactive waste collection bins should be available in hot lab, dispensing room and
+patient's isolation rooms.
+viii.Appropriate shielding devices should be provided for nursing staff and comforters
+entering the isolation rooms.
+ix. Bench tops, floors and patient toilets should be easy to wash and decontaminate.
+x. All relevant records should be prepared and maintained in an auditable form. 
+4.3 Design of Radioisotope Laboratory (Hot Lab)
+Radioisotope Laboratory or Hot Lab is the most important place within the facility. Since 
+4
+large activity of Iodine-131 is handled here, therefore, a trained technician should be available
+to handle radiopharmaceuticals under the supervision of a qualified Medical Physicist/
+Radiation Protection Officer (RPO). Following important points should be taken into
+consideration while designing a radioisotope laboratory or hot lab: 
+i.
+The radioisotope laboratory should be separate from other laboratories/places. 
+ii.
+Special attention should be given during the planning for ventilation, drains, fume
+hood, laminar airflow cabinet, disposal of waste and shielding requirement such
+that;
+Ÿ The ventilation of fume hoods should never be connected with the ventilation
+system of the building and the exhaust air should be released through charcoal
+filter and a straight corrosion-resistant tube at about 2 m above the roof.
+iii. The radioisotopes should be placed in shielded containers so that the background
+radiation level can be maintained as low as that in normal rooms (about 0.1µSv/h)
+[3].
+iv. Building expansion joints should not pass through the laboratory.
+v. The seating arrangement should allow ready escape in case of an emergency.
+vi. Surface finishes to the walls, ceilings and furniture in the laboratory should be
+chosen so that they can be easily cleaned.
+vii. Floors should be made non-slip. Floor covering should be impermeable with
+welded joints and be coved against the walls for ease of decontamination. Rubber,
+Vinyl, or Asphalt tiles used in the floor have the advantage that these can readily be
+removed by replacing a few tiles, if contaminated.
+viii. Cupboards used to store radioisotopes should be lockable; provided with metal
+trays to contain spill and protect against fire.
+ix. All hazards involved in the work should be considered such as radioactive
+contamination, fire, mechanical, electrical, chemical and biological hazards etc.
+x. The entrance to hot lab should display a radiation warning sign and a text indicating
+"entrance is restricted to authorized persons only".
+xi. Hot Lab should be of sufficient size and separate work surfaces for handling
+radioisotopes and office work should be provided.
+xii. If dispensing room is part of the laboratory, this area should be segregated from the
+rest of the area, with no thorough passage. It should not be adjacent to film storage
+area or areas where low-level measurements are performed.
+xiii. Wor should be performed over absorbent surfaces; bench paper or spill trays
+should be plastic-backed to prevent spread of contamination.
+xiv. Wash basins, provided with automated or elbow operated water taps, should be
+installed.
+xv. Sources of gamma or high-energy beta radiation should be handled using screen of
+lead glass or lead Perspex to protect the radiation worker. 
+5
+xvi. The vials containing radiopharmaceuticals should be placed in a fume hood to
+avoid airborne contamination and be stored away from high-occupancy areas of
+the laboratory. 
+xvii. Cupboards or enclosed storage areas that are used for holding
+radiopharmaceuticals should be well shielded. 
+xviii. If significant quantities of liquid waste are to be disposed off into the sewerage
+system, disposal should preferably be attached with delay tanks. Otherwise,
+dilution and dispersion method should be opted.
+xix. Pedal-operated shielded buckets, reserved for radioactive waste only, labeled with
+radiation symbol should be provided in the hot lab [3].  
+xx. After completing the work with radiopharmaceuticals, workers should wash their
+hands and monitor their hands and shoes for the presence of any contamination.
+4.4 Design of Dispensing Room
+Following recommendations should be taken into consideration while designing the
+dispensing room:
+i. The room should be of 8-10m2 area having a non-slip waterproof floor finish
+extending up to the walls to a height of about 10 cm [3]. 
+ii. The floor covering should be impermeable with welded joints and be coved against
+the walls for ease of decontamination. Preference should be given to Rubber, Vinyl,
+or Asphalt tiles which have the advantage that these can readily be removed by
+replacing a few tiles, if contaminated.
+iii. Wash basins for washing hands should be provided along with a hand monitor to
+ensure that the staff has no contamination. 
+iv. Dispensing room should only be used for dispensing of radiopharmaceuticals for
+diagnostic and therapeutic purposes.
+v. Pedal-operated shielded buckets, reserved for radioactive waste only, labeled with
+radiation symbol should be provided in the dispensing room.
+4.5 Design of Isolation Room
+Following points should be taken into account while designing the isolation rooms:
+
+i. An isolation room should have an attached toilet and shower facility.
+ii. The bed should be located as remotely as possible from the entrance door and
+portable shielding screens should be used by the staff while visiting the patient's
+room.
+iii. Floor, walls and furniture surfaces should be smooth, continuous and impermeable
+for ease of decontamination.
+iv. Warning signs and instructions should be displayed outside the room door for 
+6
+awareness of the visitors/comforters.
+4.6 Storage and Disposal of Radioactive Waste
+Radioactive waste should be disposed off in a manner that all regulatory requirements as
+specified in PNRA regulations on radioactive waste management - PAK/915 [4] are met. Solid
+radioactive waste should be collected and stored in shielded bins available in the area where it
+is generated prior to disposal. Liquid radioactive waste should be collected in delay tanks and
+not to be discharged in ordinary sewerage for disposal (except for patient excreta) unless
+authorized by RPO after ensuring that there is no radiation risk to the environment. General
+guidelines for handling and disposal of radioactive waste are outlined below.
+i. Volume of solid waste should be kept as small as possible.
+ii. A separate room for interim storage of radioactive waste should be available.
+iii. The room should be locked, ventilated and properly marked with instructions and
+radiation warning signs.
+iv. Radioactive waste (vials, syringes, bags, etc) should be segregated and should be
+collected in separate containers properly labeled providing information about the
+radionuclide, its activity and concentration etc.
+v. Flammable material should not be kept inside the radioactive waste storage room.
+vi. Lids of radioactive waste bins and containers should be securely placed at all times
+even when the containers are not in use.
+vii. Radioactive waste containing infectious material should be treated to render it noninfectious
+prior
+to
+disposal.
+viii.
+Record should be maintained in a retrievable manner which includes the date of
+disposal, model and serial number of survey instrument used, the background
+radiation level, dose rate measured at the surface of each waste container, and the
+name of individual who performed the disposal.
+ix. Generated radioactive waste should be stored for the purpose of delay and decay
+for a minimum period of 6 months prior to its final disposal (irrespective of its
+activity and half life) and relevant records should be retained for 3 years.
+ 
+4.7 Warning Signs and Labels
+Radiation warning signs and instructions should be displayed prominently outside the
+radiation area. These instructions should indicate possible radiation risk and dose level that
+may be present in the area. Magenta or black on a yellow background trefoil warning sign
+should be used to indicate the presence of ionizing radiations.
+5 PROCEDURE FOR HANDLING RADIO-IODINE 
+The following procedures should be adopted in all cases where radioiodine is being
+handled.
+7
+The radioiodine should always be stored in a shielded container placed in a
+controlled area.
+ii. The lead container should be of 1-3 cm thickness to ensure minimum dose rate at
+external surface of the container [3].
+iii. Vials containing radio-iodine should always be handled in the fume hood.
+iv. Receptacles, fabrics, clothing, handkerchiefs etc., likely to become contaminated
+should be of disposable nature, whenever practicable.
+v.
+i.
+All items known or suspected to be contaminated should be stored in containers,
+which can be readily decontaminated or disposed off. Such items should be
+disposed off under the supervision of RPO to ensure the level of contamination is
+below the exemption level.
+vi. All items of non-disposable nature should be checked under the supervision of
+RPO to determine the level of contamination before and after decontamination,
+and returned to routine use when declared to be clear by the RPO.
+vii. Nursing staff carrying out procedures which may result in contamination of skin
+and/or clothing should wear protective gloves and gowns. Their hands and
+clothing should be monitored after completion of work and if necessary,
+decontamination should be performed under the supervision of RPO, without any
+delay.
+viii. Catheterization should be considered when the patient is, or likely to be,
+incontinent or otherwise incapacitated, to avoid spread of contamination over his
+clothes, bedding or floor.
+ix. Nappies of infant inpatients administered with radio-iodine should be changed
+frequently and the used ones, properly sealed in thick plastic bags, should be
+disposed off/ stored for decay.
+x. The ideal method for hospitalized patients, administered with greater than 30mCi
+radio-iodine, is the use of special toilet suite connected to delay-and-decay tanks.
+However, the patient, who is administered with less than 30mCi should use an
+ordinary toilet which has been reserved solely for that patient's use during
+treatment. 
+Special precautions should be taken to reduce the risk of spill of radioactive body fluids 
+e.g. vomit, blood, urine and feces etc. Instructions should be given by RPO to take appropriate
+action in the event of a spill of radioactive body fluid. These instructions should be prepared
+based on following detail regarding minor and major spill of radioactive fluids: 
+5.1 Minor Spills
+Minor spills include typically less than 100 times exempted quantities of radionuclides
+mentioned in ANNEX-I of PNRA regulations on radiation protection (PAK/904). In case of a 
+8
+minor spill, following procedural steps should be followed:
+Inform persons in the affected area that a spill has occurred. Keep them away from
+the contaminated place.
+ii. Clean up the spill by wearing protective clothing and disposable gloves, using
+absorbent paper and place it in a plastic bag for transfer to a labeled waste
+container.
+iii. Work from outside of the spill towards the centre to avoid spreading of
+contamination.
+iv. Carry out wipe test or survey for residual contamination as appropriate. Repeat
+decontamination, if necessary, until surface contamination monitoring results
+reach the dose rate less than 0.02mR/h (0.2 µSv/h) [8].
+v. Check hands, clothing, and shoes for presence of contamination, if any.
+vi. Report the spill and decontamination results to the person incharge and, if
+necessary, to the RPO.
+vii. Record necessary details regarding spill and decontamination results. Update the
+radionuclide's inventory and waste records accordingly.
+i.
+5.2 Major Spills 
+Major spills involve more than 100 times of exempted quantities of radionuclides or 
+contamination of personnel or release of volatile radioactive material. In case of major spills,
+following procedural steps should be followed:
+Immediately evacuate and cordon off the spill area and post warning sign(s) to
+prevent further entry of personnel.
+ii. Notify the RPO or person in-charge immediately.
+iii. The RPO should take decision for carrying out decontamination of affected area,
+personnel and necessary cleanup operations.
+iv. Decontaminate personnel by removing their contaminated clothing and flushing
+contaminated part of skin with lukewarm water and mild soap.
+v.
+i.
+Follow the decontamination procedures as prescribed earlier for minor spills and
+repeat if necessary until contamination monitoring results approaches the dose rate
+value of less than 0.02mR/h (0.2 µSv/h) [8].
+vi.
+If the spill occurs in a laboratory, leave the fume hood running to minimize the
+release of volatile radionuclides to adjacent rooms and hallways.
+vii. Record the names of persons involved in handling the spill and conducting
+necessary recovery operations.
+viii. All the persons involved should be monitored for contamination before leaving the
+spillage area.
+ix. The RPO should arrange for any bioassay measurements, if necessary.
+9
+x. The RPO should submit a detailed report to PNRA within two months of the
+incident.
+6 DOSE ADMINISTRATION
+There are different methodologies for dose administration that are adopted worldwide.
+Usually therapeutic dose of I-131 is administered in a single dose/fraction having activity
+about 5550MBq or in multiple doses/fractions of activity 1110MBq per fraction. The patient,
+to whom more than 1110MBq of I-131 is administered, should be hospitalized and should not
+be discharged until the activity is less than 1110MBq and the measured dose rate at one meter
+from the patient is less than 20-50µSv/h (as a good practice). Moreover, if patient-specific
+calculations demonstrate that potential total effective dose to any individual around him would
+not be greater than 5mSv then he may be discharged from the hospital with specific set of
+instructions .
+On a specified time, the vial containing radio-iodine which is to be administered is
+brought on a cart to the patient's room in its shielded shipping container according to the
+transport requirements as specified in PNRA regulations for the safe transport of radioactive
+material - PAK/916 [6]. Before dose administration, the nursing staff must ensure that all
+aspects of therapy have been explained to the patient and that the patient has signed the therapy
+consent form. Once this has been confirmed, the dose can be administered. All contamination
+precautions must now be observed. The nursing staff or any other individual entering the
+isolation room should wear necessary protective clothing which include; 2 pairs of shoe
+covers, 2 pairs of disposable gloves, surgical gown, a mask and optional hair cover.
+Greater care must be exercised while administering the radio-iodine dose. Plastic-lined
+absorbent pads should be used to cover the dosing table and those areas of patient's body that
+may be subjected to any potential spillage. The vial must remain in its shielded container
+during administration and a straw should be provided to the patient to drink the radionuclide
+contents. Once the dose is administered, the nursing staff should wrap the shielded dose vial,
+straw, and any other possibly contaminated items in the absorbent pads and remove them from
+the room. The dose vial should be assayed promptly to determine the residual activity so that
+the actual administered activity could be calculated. This determination of administered
+activity can be used in conjunction with daily exposure rate measurements to determine the
+activity remaining in the patient's body. An expression to determine the activity remaining in
+the patient's body based on exposure rates is given below:
+Activity Administered = (Total Activity Residual Activity) MBq
+-
+Remaining Activity =
+Administered Activity
+New Exposure Rate
+Initial Exposure Rate
+x
+10
+6.1 Precautionary Measures after Dose Administration 
+Following precautionary measures should be followed after the administration of radioiodine
+dose
+to
+the
+patient
+[7]:
+Nursing staff should be trained and strict compliance of radiation protection
+requirements must be ensured by the licensee.
+ii. Once the patient is admitted in the isolation room after administration of radioiodine
+
+dose, nurse in-charge should inform him about any expected cause of
+contamination and duration of its persistence.
+iii. Door of the isolation room should be kept closed when the patient is admitted.
+iv. Containers should be provided for temporary storage of used utensils and linen,
+before they are checked for contamination.
+v. The patient should be instructed to attend the collection of excreta preferably
+himself and hand it over to the nursing staff.
+vi. When prolonged nursing care is necessary, it should be so divided among the ward
+staff that the dose received by each individual during his shift is kept to a minimum.
+i.
+7 DECONTAMINATION
+Contamination occurs when a radionuclide spreads beyond its normal place of 
+confinement. The radionuclide thus spread may contaminate the environment (air, water,
+floors, and surfaces in general) and become partly fixed. It may eventually affect human beings
+internally or externally by exposing them to the radiations being emitted. The external
+contamination may involve; personnel, clothing and bedding, laboratory equipment and
+instruments, working surfaces and other surfaces in the room. Every nuclear medicine centre
+handling radio-iodine should establish decontamination team composed of personnel specially
+trained in decontamination techniques and possessing all necessary equipment and chemicals
+required for decontamination.
+7.1 Decontamination of Personnel 
+Radio-iodine can affect persons who handle it or those who come in contact with the 
+patients carrying radio-iodine (through vomiting, discharges associated with injections,
+contaminated bed linen, and excreta). It takes the form of contamination on the hands or other
+areas of the skin or scalp. 
+Radiation exposure to the skin considerably increases when the skin is externally
+contaminated. Moreover, internal contamination increases if radio-iodine passes through open
+wounds. If contamination monitor detects contamination of hands or skin, the radioactivity can
+be reduced below the detection level by carefully washing the skin with soap. Ordinary soap
+has proved to be the best decontaminant in the event of skin contamination. If the
+contamination persists, decontamination should be repeated by a decontamination team. One 
+11
+can try to reduce the radioactivity by washing the skin with an entraining agent (A detergent
+ointment with a titanium dioxide base/or saturated potassium permanganate solution).
+Chemical treatments of this kind should be applied with care in order not to damage the skin,
+and the same is true for the use of light abrasives and scrubbing agents. Every nuclear medicine
+center should be equipped with eye-cups and shower facility in the vicinity of change room. 
+7.2 Decontamination of Clothing and Bedding
+In nuclear medicine centers/hospitals, clothing and bedding usually become
+contaminated by perspiration, discharges following injections, incontinence of a patient,
+vomiting, or due to some other reasons. It is important to change the contaminated clothing and
+bedding immediately and to seal and store them in polythene bags until they can be sent to
+laundry. 
+Contaminated clothing carries the risk of irradiation of skin and the hazard of internal
+exposure, if radio-iodine is inhaled or ingested. It can easily be detected with portable
+contamination monitors. Contaminated clothes and bedding or linen should be washed in a
+special laundry so as to avoid the washing of contaminated and non contaminated clothing
+together. Either soap or a detergent can be used for washing. 
+The operation is preceded and followed by extensive rinsing. A hot 1% Citric Acid
+solution can also be used. Highly contaminated clothing or linen can be stored for a while to
+allow the short-lived radionuclides to decay. If contamination with long-lived radioisotopes
+cannot be removed by laundering, the linen should be treated as radioactive waste. After
+laundering, clothing should be monitored for residual contamination. Residual levels should
+be within the limits specified in ANNEX-I of PAK/904.
+7.3 Decontamination of Equipment and Apparatus
+The contamination of equipment such as glassware and minor laboratory tools is highly
+undesirable as it may lead to contamination of the staff and may also be a source of errors in
+analyses and measurements. The degree of contamination of laboratory equipment and
+apparatus is often difficult to determine with accuracy. All parts of equipment/instrument
+should be assumed as contaminated, prior to conducting decontamination activity. 
+After use, porcelain and glassware should be cleaned with appropriate detergents or
+chemical decontaminants. Chromic Acid cleaning mixture (K Cr 0  + H S0 ) is most 
+2
+2 7
+2
+4
+commonly used chemical decontaminant. Other chemical agents such as Ammonium Citrate
+[(NH ) C H O ], Penta-sodium Tri-phosphate (Na P O ) and Ammonium Fluoride (NH HF ) 
+4 3 6 5 7
+5 3 10
+4
+2
+can also be used. Metal objects should first be cleaned with good detergents; if contamination
+persists then complexing agents (Acitrate-Edetic Acid mixture), Ammonium Fluoride, or
+dilute acid solutions may be used. Ordinary metal cleaners are usually used to clean stainless
+steel equipment/instrument. If contamination still persists, a mild abrasive such as a mixture of 
+12
+Nitric Acid and 1% Sodium Fluoride can be employed.
+ If above methods prove inadequate, one can resort to sand-blasting and/or ultrasonic
+techniques. The choice of method depends primarily on the type of equipment and whether or
+not it can withstand the treatment which might lead to the loss of material. If the contaminant is
+a short-lived radionuclide, the equipment/instrument which proves difficult to decontaminate
+must be stored until the radioactivity has decayed; otherwise it must be disposed off as a
+radioactive waste.
+7.4 Decontamination of Surfaces and Floors
+Contamination of working surfaces, floors, and corridors may originate from spills,
+settling of aerosols present in the air and the transfer of contamination through shoes. It may
+also result from an incident involving contamination such as overturning of radioactive
+solutions or substances and vomiting etc. The result of such incident may be the contamination
+of surfaces, floors, skin, clothing and bedding. The contaminating material may also form a
+suspension in the air and lead to internal exposure if inhaled.
+
+Working surfaces and floors should be periodically checked for contamination and
+should be decontaminated whenever the levels exceed allowable limits. The cleaning-up
+operation should usually be carried out by sweeping the surface with a broom or brush wetted
+with a suitable agent, or by mopping it with a damp cloth. Dry sweeping should always be
+avoided as it may result into the contamination becoming airborne. Linoleum-covered or
+painted floors should be decontaminated by means of detergents, care being taken to avoid the
+spreading of contamination. If contamination persists, the floor coverings or paint must be
+removed. 
+When a radioactive solution is spilt, the first step is to prevent the contamination from
+spreading. The liquid should be covered with sawdust, absorbent material or dry rags
+immediately. Decontamination can be carried out by mopping the surface with a damp cloth,
+by ordinary washing, or by scrubbing. If a patient vomits within five hours of administrating
+radio-iodine dose, all affected floors, bedding, linen, and persons around him must undergo
+same decontamination procedures as are applied in the event of spillage of radio-iodine. 
+7.5 Wipe Test 
+Wipe tests are used to determine the amount and level of contamination present in the
+affected area, however, it does not measure the entire contamination that is present. The
+procedure followed for wipe test consists of the following steps:  
+i.
+Put on disposable gloves. 
+ii. Wipe the filter paper or a cotton swab of appropriate size across the affected area.
+Dry wipes should preferably be used. 
+13
+iii. For determination of contamination on the surface of a package, an area of 300
+cm2 should be wiped.
+iv. For determination of contamination on a working surface or a floor, an area of 100
+cm2 should be wiped.
+v. Take the activity counts of a background sample and the test sample using a well
+shape counter with Sodium Iodide (NaI) detector. 
+vi. Compare this reading with the applicable threshold levels; carryout the
+decontamination procedure, if it exceeds the applicable threshold level.  
+8 CONTROL OF VISITORS
+The management of the facility is responsible to protect the visitors from undue
+exposure to radiations. Following precautionary measures should be adopted for the
+protection of personnel visiting the patients:
+i. Visitors should not be allowed to visit their patients within 48 hours after
+administration of radio-iodine. Un-necessary visits/meetings should be
+discouraged.
+ii. Pregnant women and children under the age of 18 should not be permitted to visit
+the patient admitted in isolation room.
+iii. The duration of visit should be as short as possible.
+iv. Visitors should be advised to keep themselves at a reasonable distance from the
+patient (preferably at a distance of about 2m or behind the shielded screens).
+v. Visitors should be advised not to kiss the patient and not even eat, drink or smoke
+in the patient's room.
+vi. Visitors should also be advised to avoid using the toilet or sink in the patient's
+room.
+9 RADIATION PROTECTION PROGRAM
+The management of a facility/nuclear medicine center must ensure that a Radiation Protection
+Program is developed, documented, implemented and regularly reviewed to ensure safety in
+all practices in which radioisotopes are used. The radiation protection program of the facility
+should include the following:
+i. Work practices;
+ii.
+Roles and responsibilities of RPO, Nursing Staff etc;
+iii. Radiation monitoring requirements and availability of monitoring equipment ;
+iv. Control of incidents involving contamination;
+v.
+Storage and transportation arrangements of radiopharmaceuticals; 
+vi. Radiation protection measures applicable in isolation rooms;
+vii. Inventory control and records of radiopharmaceuticals; and
+14
+viii. Any other requirement that may have bearing on safety.
+10 EMERGENCY PROCEDURES
+ 
+Each facility/nuclear medicine center is responsible to ensure that emergency plan for 
+the incidents and emergencies involving radionuclides is developed and effectively
+implemented. Emergency procedures for the implementation of emergency plan should be
+identified while developing the emergency plan of the facility. Following items should be
+considered during preparation of emergency procedures:
+Instructions on  immediate actions that need to be taken to protect human life,
+limit injury and provide first aid where required;
+ii.
+i.
+Instructions on immediate actions needed to bring the incident under control,
+including details on  actions necessary to prevent further spread of contamination
+(if this possibility arises);
+iii. Instructions for personnel involved to report the incident to  RPO or his designated
+alternate;
+iv. Instructions for the RPO or his designated alternate  to communicate this
+information and any follow-up on the developing situation to PNRA;
+v.
+Lists containing names, addresses and telephone numbers of responsible
+personnel required in the event of an emergency (these should be checked and
+updated at least once every six months and/or whenever changes in the
+arrangements are made);
+vi. Instructions to be followed when safety procedures or working rules are not
+sufficient; and
+vii. Instructions on emergency response actions following radioactive spillage,
+vomiting, fire, flood, explosion or any other disaster or incident within the facility.
+15
+11 REFERENCES
+[1] PNRA “Regulations on Radiation Protection” - PAK/904.
+[2] ICRP Publication No. 103, “Recommendations of the International Commission
+on Radiological Protection”, 2007, ICRP, Elsevier.
+[3] FROST, H. JAMMET, “Manual on Radiation Protection in Hospitals and General
+Practice”, Volume 2, World Health Organization, and Geneva: 1975.
+[4] PNRA “Regulations on Radioactive Waste Management” - PAK/915.
+[5] IAEA Safety Reports Series No. 63, “Release of Patients After Radionuclide
+Therapy”, 2009, IAEA, and Vienna, Austria.
+[6] PNRA “Regulations for the Safe Transport of Radioactive Material” - PAK/916.
+[7] Michael A. Thompson “Radiation Safety Precautions in the Management of the
+Hospitalized I-131 Therapy Patient”, Journal of Nuclear Medicine Technology,
+Volume 29, Number 2, pp. 61-66, 2001.
+[8] IAEA “Manual for First Responders to a Radiological Emergency”, October,
+2006, Vienna, Austria.
+16
+ANNEX-I
+GLOSSARY
+ABSORBED DOSE: The energy imparted to matter by ionizing radiation per unit mass of
+irradiated material
+CONTROLLED AREA: A defined area in which specific protection measures and safety
+provisions are or could be required for controlling normal exposures or preventing the spread of
+contamination during normal working conditions, and preventing or limiting the extent of
+potential exposures
+DECONTAMINATION: The complete or partial removal of contamination by a deliberate
+physical, chemical or biological process.
+DOSE: A measure of the energy deposited by radiation in a target. It includes absorbed dose,
+committed equivalent dose, committed effective dose, effective dose, equivalent dose or organ
+dose.
+DOSE RATE: The radiation dose delivered per unit time and measured in dose per second or
+dose per hour e.g. milisieverts per hour.
+DOSIMETER: A device that measures radiation dose, such as film badge, ionization chamber,
+or TLD.
+EXPOSURE RATE: The amount of ionization produced in air per time, in units of R/hr for
+example.
+NORMAL/RADIATION ROOMS: A room in which radiation level is about 10µrad/h is
+known as normal room and if in any room radiation level is higher than 10µrad/h is categorized
+as radiation room. 
+OCCUPATIONAL EXPOSURE: Exposure of an individual to radiation (1) in a restricted
+area; or (2) in the course of employment in which the individual's duties involve exposure to
+radiation.
+PNRA: Pakistan Nuclear Regulatory Authority.
+RADIATION: Ionizing radiation i.e. gamma rays, X-rays, alpha and beta particles, high speed
+electrons, neutrons, and other nuclear particles.
+RADIATION AREA: Any area accessible to individuals in whom there exists radiation at such
+levels that a person could receive a dose equivalent in excess of 50µSv in one hour at 30
+centimeters from the source or any surface that the radiation penetrates.
+RADIOACTIVE MATERIAL: Any material (solid, liquid, or gas) which emits radiation
+spontaneously.
+RADIOACTIVITY: The disintegration of unstable atomic nuclei by the emission of radiation.
+RESTRICTED AREA: Any area where access is controlled by the licensee for the purpose of
+protection of individuals from exposure to radiation and radioactive material.
+RPO: Radiation Protection Officer.
+SUPERVISED AREA: A defined area not designated as controlled area but for which
+occupational exposure conditions are kept under review, even though no specific protection
+measures or safety provisions are normally needed.
+TLD: Thermo luminescent dosimeter.
+17
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+P.O. Box 1912, Islamabad
+www.pnra.org
+RADIATION SAFETY IN INDUSTRIAL RADIOGRAPHY
+REGULATORY GUIDE
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+October, 2017 PNRA-RG-904.03
+(Rev. 0)
+For Further Details 
+Directorate of Policies & Procedures
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+P.O. Box 1912, Islamabad
+www.pnra.org
+RADIATION SAFETY IN INDUSTRIAL RADIOGRAPHY
+ABSTRACT
+Industrial radiography is of significant importance in non destructive testing. It 
+involves application of ionizing radiations e.g. X-rays and gamma rays to verify the 
+physical integrity of items, equipment and structures such as vessels, pipes, welded 
+joints, casting and other devices. Industrial radiography poses negligible risk if it is 
+performed in a safe manner. However, experience shows that incidents involving 
+industrial radiography sources have sometimes resulted in high doses to workers, causing 
+severe health consequences such as radiation burns and, in a few cases, death. Members 
+of the public have also suffered radiation overexposures when radioactive sources used 
+for industrial radiography are not properly controlled or regulated. All such incidents 
+demonstrate the necessity to have effective radiation safety infrastructure in place within 
+the facilities; complemented with strong regulatory oversight to ensure highest level of 
+safety. In order to control/eliminate such incidents in radiation facilities, PNRA has 
+established requirements in the form of regulations called "Regulations on Radiation 
+Protection" (PAK/904). This regulatory guide provides guidance to the licensee(s) and 
+worker(s) to fulfill the purpose of these regulations effectively.
+TABLE OF CONTENTS
+1 INTRODUCTION .............................................................................................................................1
+2 OBJECTIVE ......................................................................................................................................2
+3 SCOPE................................................................................................................................................2
+4 DUTIES AND RESPONSIBILITIES...............................................................................................2
+4.1 Responsibilities of an Owner/Licensee.....................................................................................2
+4.2 Responsibilities of a Radiation Protection Officer (RPO)........................................................4
+4.3 Responsibilities of Radiography Crew .....................................................................................4
+5 INDIVIDUAL MONITORING ........................................................................................................6
+5.1 Types of Dosimeters..................................................................................................................6
+5.2 Precautions for Dosimeter(s) ....................................................................................................7
+5.3 Unusual Dose ............................................................................................................................8
+5.4 Investigation Levels..................................................................................................................8
+5.5 Over Exposure ..........................................................................................................................9
+5.6 Health Surveillance...................................................................................................................9
+6 GAMMA RADIOGRAPHY EQUIPMENT....................................................................................9
+6.1 Exposure Device .....................................................................................................................10
+6.2 Drive Cable and Guide Tube...................................................................................................11
+6.3 Recommendations for the Use of Drive Cable and Guide Tube.............................................11
+6.4 Collimators..............................................................................................................................11
+6.5 Instructions for Testing and Maintenance of Radiography Equipmen ...................................12
+7 X- RAY RADIOGRAPHY EQUIPMENT.....................................................................................12
+7.1 Electrical Safety ......................................................................................................................13
+7.2 Cable Length...........................................................................................................................13
+7.3 Collimators and Beam Filters .................................................................................................13
+7.4 Control Panel ..........................................................................................................................14
+7.5 X-ray Tube Head.....................................................................................................................14
+7.6 Flash X-ray Units....................................................................................................................14
+7.7 Inspection, Testing and Maintenance of X-ray Equipment.....................................................15
+8 TYPES OF INDUSTRIAL RADIOGRAPHY...............................................................................15
+8.1 Recommendations for Shielded Enclosure .............................................................................15
+8.2 Recommendations for Site Radiography ................................................................................16
+9 AREA CLASSIFICATION AND LOCAL RULES ......................................................................17
+9.1 Controlled Area.......................................................................................................................17
+9.2 Recommendations for Controlled Area ..................................................................................18
+9.3 Supervised Area ......................................................................................................................18
+9.4 Recommendations for Supervised Area..................................................................................19
+9.5 Local Rules .............................................................................................................................19
+10 STORAGE OF RADIOGRAPHY EQUIPMENT AND SOURCES ...........................................19
+11 TRANSPORT OF RADIOGRAPHY SOURCES .........................................................................20
+11.1 Actions Following Loss of or Damage to a Package During Transport .................................21
+12 ACCOUNTABILITY OF RADIOGRAPHY SOURCES.............................................................21
+13 LEAK TESTING .............................................................................................................................22
+14 EMERGENCY PREPAREDNESS AND RESPONSE.................................................................22
+14.1 Assessment of Hazards...........................................................................................................23
+14.2 Preparation of Radiation Emergency Plan and Procedure(s)..................................................23
+14.3 Acquisition of Emergency Equipment....................................................................................24
+14.4 Conduct of Training Drills/Exercises......................................................................................24
+14.5 Periodic Review of Emergency Plan and Equipment .............................................................25
+14.6 Incident Reporting ..................................................................................................................25
+15 REFERENCES.................................................................................................................................25
+GLOSSARY ................................................................................................................................................26
+1 INTRODUCTION
+The applications of ionizing radiation bring many benefits to mankind ranging from 
+power generation to uses in medicine, industry, agriculture and research. One of the foremost 
+industrial applications of such radiation is the use of sources to verify the physical integrity of 
+items, equipment and structures through non-destructive testing. The structural integrity of 
+such equipment and structures affects not only the safety and quality of the products but also 
+the protection of the workers, public and the environment. 
+Radiography is a process in which radiation passes through an object/material under 
+investigation and strikes at photographic film or some other digital detection system placed 
+behind it. There is a partial absorption of the radiation beam as it passes through the 
+object/material and it gives the detailed information in the form of final image on a 
+photographic film or a digital detection system as illustrated in Figure 1.
+The ionizing radiation such as high energy gamma and X-rays are used for industrial 
+radiography purposes worldwide because of their significant penetrating power. Apart from Xray generators, examples of sealed radioactive sources (SRS) emitting gamma rays, used in 
+industrial radiography, include Cobalt (Co-60), Iridium (Ir-192) and Cesium (Cs-137) etc.
+Industrial radiography usually produces high doses and if a person is accidentally 
+exposed to primary beam or comes in close contact with an unshielded radiography source (i.e. 
+SRS), he might receive a dose that could result in severe deterministic health effects. 
+Therefore, it requires high degree of professionalism which can only be achieved through 
+effective management system, compliance with regulatory requirements, regulatory oversight 
+and effective training/re-training of radiographers. A need to provide guidance to the 
+licensee(s) of industrial radiography facilities, has been felt since long, to facilitate them in 
+complying with the requirements regarding radiation protection. This regulatory guide has 
+been prepared on the bases of the requirements established under regulation(s) 9, 10, 20, 25 to 
+1
+Figure 1 : Radiography Process
+30, 32 and 33 of "Regulations on Radiation Protection" - PAK/904 [1]. Moreover, guidance on 
+the implementation of requirements of relevant regulation(s) of "Regulations on Management 
+of a Nuclear or Radiological Emergency" - PAK/914 [2] and "Regulations for the Safe 
+Transport of Radioactive Material" - PAK/916 [3] have also been provided in this guide.
+2 OBJECTIVE
+The objective of this regulatory guide is to provide guidance to licensee(s) and worker(s) 
+regarding radiation safety in industrial radiography.
+3 SCOPE
+The guidance provided in this regulatory guide is applicable to the licensee(s) using 
+radiation source(s) (i.e. SRS emitting gamma rays and X-ray generators) for the purpose of 
+industrial radiography whether performed in a shielded enclosure or in a partially closed or 
+open site.
+4 DUTIES AND RESPONSIBILITIES
+The overall responsibility for radiation safety lies with the licensee. Specific duties and 
+the day to day responsibilities for safe operation of radiography equipment, however, lie with a 
+range of people, including management, the radiation protection officer (RPO), radiography 
+crew, and, for site radiography work, the client is responsible for the premises where the site 
+radiography work is carried out. All the duties and responsibilities should be identified, in 
+writing, and agreed to by all the relevant personnel.
+The licensee is responsible for the establishment and implementation of technical and 
+organizational measures necessary to ensure compliance with regulatory requirements and 
+safety of the workers, public and the environment from harmful effects of radiations. The 
+licensee should develop, implement, and maintain an overall management system of the 
+facility that defines reporting hierarchy and responsibilities of all relevant individuals. General 
+responsibilities of a licensee, RPO and the radiography crew may include the following:
+[4] 4.1 Responsibilities of an Owner/Licensee
+The owner/licensee of an industrial radiography facility should:
+i. Develop detailed operating procedures and working rules prior to commencement 
+of industrial radiography operation for the first time;
+ii. Ensure that necessary infrastructure is available to enable the implementation of 
+routine/emergency procedures and working rules, including provision of barriers, 
+interlocks and warning signs;
+iii. Designate a Radiation Protection Officer (RPO) as per criteria prescribed in PNRA
+Regulations (PAK/904). RPO should have sufficient professional and technical 
+2
+training enabling him/her to readily comprehend and carry out assigned duties; 
+iv. Ensure that the surveillance of radiography equipment is performed prior to its first 
+use and at periodic intervals as recommended by the supplier to ensure that all 
+interlocks, shutters and control mechanisms function normally and that no 
+components are unacceptably worn or damaged. Surveillance record thus 
+generated should be maintained and made available to the Authority, when 
+required;
+v. Ensure that if damage to equipment or variation in its radiation pattern is observed, 
+the equipment should not be allowed to be used further until inspected by an 
+RPO/supplier/PNRA inspector. Once repaired, the equipment should be tested for 
+its intended function in accordance with its technical specifications, before re-use, 
+if necessary. Record of such repairs should be maintained and made available to the 
+Authority, when required;
+vi. Ensure that radiation emergency plan, radiation protection program, security plan, 
+etc. are prepared in accordance with regulatory requirements and are submitted to 
+the Authority for review and approval. All such plans and program should be 
+integrated into the overall management system of the facility and made available 
+during the radiography work;
+vii. Ensure, prior to operation of industrial radiography equipment at a site other than 
+its own premises, that the person responsible for that site/premises is consulted and 
+advised to:
+a. Take necessary precautions required for workers in the vicinity, and details of 
+the operator responsible for radiographic operation at site;
+b. Identify the responsible person nominated for liaison between operator and 
+other workers at site so that the directions given by the operator to maintain 
+radiation safety are followed.
+viii. Ensure that necessary supervision is provided in a supervised area so that workers 
+and public are protected from potential exposure;
+ix. Ensure that a radiography crew (i.e. operator/radiographer) is composed of 
+technically competent individuals (other than RPO) to cater for any unforeseen 
+incident during radiography in the shielded enclosure or open site;
+x. Ensure that radiography crew and other facility/site personnel who may be 
+exposed to radiation are properly instructed about radiation hazards associated 
+with their work, and appraised of precautions necessary to limit the exposure in 
+accordance with the dose limits;
+xi. Ensure that no person receives radiation dose in excess of the limits specified by the 
+Authority in regulations PAK/904, and that all radiation exposures are kept As Low 
+As Reasonably Practicable (ALARP);
+xii. Ensure that the measurements, investigations and assessments necessary to 
+monitor the exposure of workers, from radiography operations, are made and 
+relevant reports/record is maintained in a documented form;
+3
+xiii. Ensure that source movement record/log is maintained for all the SRS under 
+his/her control, so that an updated record of the source location is readily available.
+[4] 4.2 Responsibilities of a Radiation Protection Officer (RPO)
+The Radiation Protection Officer (RPO) of a facility should:
+i. Have acquired sufficient knowledge of radiation protection and of potential 
+hazards associated with radiography equipment so that he may undertake the 
+measurements, investigations, assessments and other duties assigned;
+ii. Be familiar with:
+a. Applicable regulatory requirements regarding industrial radiography;
+b. Use of radiation monitoring and personal protective equipment;
+c. Working rules/practices and emergency procedures.
+iii. Ensure implementation of approved operating procedures and working rules 
+during routine/emergency operations;
+iv. Instruct and train the radiography crew, as necessary, in the safe use of equipment 
+and appropriate radiation safety measures;
+v. Ensure that each radiation worker, who may be exposed to radiation during the 
+course of radiography, uses appropriate radiation monitoring devices, including 
+personal dosimeter;
+vi. Ensure that all necessary personal monitoring devices and radiation survey meters 
+are available and in good working condition and are calibrated on regular intervals;
+vii. Ensure that personal dosimeters are issued and used by all the workers and their 
+received doses are properly assessed and record is maintained in a proper 
+documented form;
+viii. Ensure that all the equipment e.g. radiation monitoring devices, survey meters, 
+source containers, shutters, source control mechanisms, interlocks are inspected 
+and tested regularly;
+ix. Ensure that the physical security requirements for source storage are properly 
+implemented;
+x. Ensure that radiography equipment is properly stored, with the source(s) located in 
+fully shielded position, by monitoring at appropriate intervals;
+xi. Ensure that the requirements for safe transport of radiography sources are met.
+[4] 4.3 Responsibilities of Radiography Crew
+The radiography crew is composed of operators/radiographers qualified and certified for 
+conducting radiography operations. The crew is usually lead by a senior radiographer and 
+assisted by other crew members. Asenior radiographer (supervisor) should have the following 
+responsibilities:
+i. Ensure that the crew is familiar with the basic knowledge of radiation protection; 
+4
+ii. Be familiar with radiography equipment and its use, approved working rules and 
+applicable routine/emergency procedures and operate the equipment in
+accordance with approved procedures/working rules;
+iii. Ensure that source(s) (SRS/X-ray generator) movement record is maintained with 
+the following details:
+a. Identification number of the source(s) and/or its container;
+b. Radioisotope and its current activity (in case of SRS);
+c. Location of sites where the source(s) is to be used;
+d. Date and time of source transfer/return;
+e. Name of the person, in whose name source(s) is issued.
+iv. Ensure that all interlocks, shielding, collimator, warning signs, barriers and other 
+protective devices are properly positioned, prior to operating the equipment, so that 
+undue exposure of those not involved in radiography could be avoided, in 
+particular, for partially enclosed and site radiography;
+v. Ensure that radiography equipment is not operated, if appropriate survey meter and 
+personal dosimeter is not available;
+vi. Ensure, by using an appropriate radiation survey meter, that source (i.e. SRS) has 
+been returned to its fully shielded position after the completion of radiography;
+vii. Ensure that source (i.e. SRS) control or shutter mechanism is locked or otherwise 
+secured in a fully shielded position and all port plugs are firmly secured in place, 
+while returning the gamma-radiography equipment to the store;
+viii. Ensure that radiography equipment is not operated, if it is known or suspected to be 
+malfunctioning/deteriorated/damaged and immediately report such circumstances 
+to the owner/licensee or RPO for appropriate corrective/investigative action;
+ix. Ensure that the operation of radiography equipment is immediately stopped, by 
+returning the source (i.e. SRS) to its fully shielded position, in the following 
+circumstances:
+a. If malfunction occurs during radiography operation; 
+b. If any person other than the radiography crew enters an area where the dose rate 
+exceeds or might exceed the allowable regulatory limits;
+c. If the only available survey meter fails to function.
+x. Promptly take appropriate measures, in accordance with the approved emergency 
+procedure, to bring the situation under control in the event of a radiation incident. 
+The assisting crew members should bear the following responsibilities:
+i. Carry out the duties/tasks as are assigned/delegated by the supervisor, in 
+accordance with the established local rules;
+ii. Operate radiography equipment only under the direct supervision of concerned 
+supervisor;
+iii. Take over the responsibilities insofar, in the event of a supervisor being unable to
+5
+carry out his duties, by ensuring the exposure to himself and other crew members 
+remains within the regulatory limits.
+[1] 5 INDIVIDUALMONITORING 
+Individual monitoring is a measure of radiation dose(s) to individual(s) for the estimation 
+of exposure to radiation and the interpretation of corresponding results. Licensee/owner should 
+ensure that radiation doses to radiography crew are assessed on regular intervals to ensure that 
+doses are kept As Low As Reasonably Achievable (ALARA) and are below the limits of 
+PAK/904.
+Individual monitoring is recommended for the individual(s) who routinely work in a 
+controlled area. It provides information about the magnitude and pattern of doses received by 
+an individual. Such information is important for a number of reasons; which are described 
+below:
+i. It enables to exercise control over radiation exposure of an individual;
+ii. It demonstrates whether doses are being kept ALARA;
+iii. It contributes to highlight unexpected high doses; enables to investigate the 
+circumstances of overexposure; and helps to determine corrective actions to be 
+taken, if necessary;
+iv. It indicates the efficacy of radiation protection measures applied during routine 
+work practices and measure improvement and/or deterioration in current work 
+practices;
+v. It also highlights good or bad work practices, status of radiography equipment, and 
+degradation of shielding or engineered safety systems.
+The ultimate choice of the type of dosimeter, to be used by the radiographers, should be 
+made by the RPO in consultation with a qualified expert in radiation dosimetry, if possible. In 
+addition to fulfill various technical requirements, the parameters such as its availability, 
+initial/running cost, its robustness, and applicable regulatory requirements should also be 
+considered while choosing a specific dosimeter.
+5.1 Types of Dosimeters
+Dosimeter is an instrument used for recording radiation dose to an individual. Dosimeters 
+are used not only during routine working in a radiation area but are also used in the event of an 
+emergency or an incident. There are two types of dosimeter which can be used for a short-term 
+as well as for routine dose monitoring. These dosimeters are classified as active dosimeters and 
+passive dosimeters. Necessary detail regarding these dosimeters is given below:
+Ÿ Active or direct-reading dosimeters are used for short-term (from minutes up to few 
+hours) dose assessment and provide an instantaneous dose and/or alarm at pre-set 
+dose levels or dose-rate. These can be very useful in restricting exposures during 
+6
+industrial radiography. The examples of direct reading dosimeters are Pen 
+Dosimeters and Electronic Personal Dosimeters (EPD). Pen Dosimeters are always 
+used after calibration through its calibrator. Active dosimeters are intended to be used 
+for providing real time indication of the dose being received during radiography 
+and/or for providing a warning for high dose-rate. Common measuring range of such 
+dosimeters is from one (1) µSv/hr to 100 mSv/hr.
+Ÿ Dosimeters used for routine monitoring are referred as passive dosimeters i.e. they 
+require to be processed by a specialized dosimetry service provider, on periodic 
+intervals, to assess the dose received by an individual. Examples of passive 
+dosimeters used for dose assessment due to beta, gamma, X-rays and neutron 
+radiations are Film Badges (FB) and Thermo-Luminescent Dosimeters (TLD). It is 
+preferable to get such dosimeters (FB/TLD) read from an accredited dosimetry 
+service provider on monthly basis for the assessment of dose received by the 
+worker(s).
+Figure -2 given below, illustrate the examples of various types of (active and passive) 
+dosimeters.
+5.2 Precautions forDosimeter(s)
+To ensure that a dosimeter provides an accurate assessment of the dose(s) to a 
+radiographer, following guidelines should be followed:
+i. Dosimeter(s) should be worn (only) by the radiographer, to whom it is issued;
+ii. It should be worn at all times, when carrying out work with radiation;
+7
+Film Badge TLD
+Pen Dosimeter Calibrator EPD
+Figure 2: Types of Dosimeters
+iii. It should preferably be worn on chest or belt or in accordance with the 
+recommendations of dosimetry service provider;
+iv. It should be worn on inside of the apron, in case if lead apron is used during work;
+v. Whenever, hands are exposed to radiation, ring dosimeters should be worn facing 
+towards inside of the hand;
+vi. The measuring element should be correctly positioned in the dosimeter holder, 
+both for TLD and FB;
+vii. Care should be taken to avoid damaging the measuring element of the dosimeter 
+because of their sensitivity (i.e. dosimeters must be protected against water, high 
+temperature/pressure and physical impact);
+viii. It should not be exposed to radiation when not being worn by a radiographer (it 
+should be stored in an area away from radiation sources);
+ix. Dosimeter(s) (TLD/FB) should be immediately sent for processing by the 
+dosimetry service provider after the end of each term;
+x. Damaged dosimeter should not be used. If a radiographer suspects that the 
+dosimeter is damaged or is exposed to radiation when not in use, RPO should be 
+informed accordingly;
+xi. The RPO should inform PNRAand the dosimetry service provider about the lost or 
+damaged dosimeters and its replacement should be arranged as soon as possible.
+5.3 Unusual Dose
+Radiation doses received by radiographers are expected to be low, usually not exceeding 
+2-3 mSv in a year, provided that all safety measures/procedures are implemented. However, if 
+an unusual high dose, e.g. several mSv in a year, is reported for a single dosimeter or 
+radiographer then it is not usual and should not go un-checked. It might be the result of high 
+workload, a maintenance activity or enactment of an emergency plan. It also indicates poor 
+work practices or inadequate radiation protection arrangements by the licensee. Such 
+deficiencies, if confirmed, should be rectified and reason(s) for any unusual dose should be 
+investigated by the licensee/RPO. Records of such investigations should be maintained and 
+PNRAshould be informed accordingly.
+5.4 Investigation Levels
+PNRA Regulations on Radiation Protection (PAK/904) require that the licensee should 
+establish investigation levels of dose(s) to individual(s). Such investigation levels are specific 
+values of dose which, if exceeded, requires to be investigated. The purpose of such 
+investigation is to determine the circumstances that gave rise to higher dose(s) and to make a 
+judgment whether this dose is as low as reasonably achievable or not. It is important to note that 
+the numerical value of a dose investigation level, established by the licensee, is always a 
+fraction of a particular dose limit.
+8
+Such investigation levels and corresponding actions to be taken, in the event of these 
+being exceeded, may also be established by the Authority. Although, they are not regulatory 
+binding, however, their use as means of ensuring safety of workers should not be ignored.
+5.5 OverExposure
+An overexposure is considered to have occurred when a particular dose limit, specified 
+by PNRA, has been exceeded. Overexposure is most likely to occur as a result of an incident or 
+accident. An individual or a radiographer who suspects that he had an overexposure, should 
+immediately inform the RPO/Licensee. In case of an overexposure, the RPO/Licensee should 
+immediately inform PNRA and carry out a detailed investigation to determine the reasons, 
+including an assessment of dose(s) received by the individual/radiographer, and final 
+conclusion thereof. The report of such investigation should be submitted to PNRA, as soon as 
+possible. PNRAmay also conduct further investigations, if so required.
+5.6 Health Surveillance
+The Licensee/owner should develop and execute a program for health surveillance of 
+workers and should make necessary arrangements for their health surveillance [1]. Initial 
+health surveillance should be performed to assess whether a worker possesses an adequate 
+level of fitness for the intended tasks and that he/she is psychologically suitable to work with 
+radiation source(s). Whereas, the licensee/owner should make arrangements for annual health 
+surveillance (medical examination) of the workers working in a controlled area to ensure that 
+their health remains satisfactory. Such program should be based on general principles of 
+occupational health as described in "Factories Act 1934" currently enforced in Pakistan. 
+[5] 6 GAMMA RADIOGRAPHY EQUIPMENT
+High activity sealed radioactive source(s), housed in a shielded exposure device, are 
+commonly used in gamma radiography equipment. The source remains in the shielded 
+exposure device unless used. It is exposed by remotely moving it from the shielded exposure 
+device (e.g. by using push–pull wires) directly into an attached guide tube. It remains in the 
+guide tube for the desired exposure time, after which it is drawn back into the shielded 
+exposure device.
+The equipment used for gamma radiography typically consists of several components 
+such as a remote wind-out mechanism (often called a crank), connected to the radiography 
+source (often called a 'pigtail') inside a shielded exposure device, which is directly connected 
+to the guide tube. Sealed sources used for gamma radiography are normally part of a source 
+assembly (the pigtail) that is usually connected to the drive cable in source projection type 
+systems. The design and operation of these various components of gamma radiography 
+equipment are interrelated.
+Gamma radiography equipment should be selected in a way to ensure uninterrupted 
+9
+operation during radiography. Following features should be considered while selection of 
+gamma radiography equipment:
+i. It should be durable i.e. resistant to corrosion, radiation and high temperature;
+ii. It should be capable to prevent the passage of water, sand and other foreign 
+materials into its critical parts.
+6.1 Exposure Device
+The exposure device (also called as gamma projector) incorporates various safety 
+devices and features designed to reduce the risk of human error or equipment malfunction. The 
+licensee/owner should ensure to use an exposure device that has been designed in compliance 
+with the applicable international standards to ensure that minimum safety requirements are met 
+and that the device and source combination is suitable for use for radiography purposes. It 
+should be ensured that an appropriate source with maximum activity permitted is used in the 
+exposure device (quoted for each radionuclide) for which it is designed. Since, design 
+specifications of most exposure devices also meet the requirements for a Type B(U) transport 
+package as specified in PNRA Regulations for the Safe Transport of Radioactive Material - 
+PAK/916, therefore, these can also be used as transport package for the transportation of 
+radiography source(s). 
+Each exposure device (gamma projector), as illustrated in Figure-3, should be 
+permanently and clearly labeled with the following details: 
+i. Radiation warning sign (trefoil) and the word “RADIOACTIVE”;
+ii. Name of radionuclide and its maximum activity for which it is designed;
+iii. Name of radionuclide (SRS) in use, its serial number, activity along with reference 
+date;
+iv. Type of container i.e. B(U) or B(M);
+v. Licensee's name, address and contact number(s) for emergency situation.
+The exposure device should have a locking mechanism. The locking should be designed 
+on the principle of "fail-to-lock", if the source is not in its secured position. It should have an 
+indicator to show whether the device is locked or not. The exposure device should be of such 
+design that the source can only be moved, from its secured position, by a remote control 
+(crank). When the source is in secured position, dose rate should not exceed 2 mSv/h on the 
+10
+Figure 3: Exposure Device (Gamma Projector)
+surface of the device and 0.01 mSv/h at a distance of one meter from the surface of the device. 
+The remote control (crank) should also be capable to indicate clearly whether the source is in 
+secured position or in exposed/working position.
+6.2 Drive Cable and Guide Tube
+Ancillary equipment such as drive cable and guide tube are used to maximize the 
+distance between the radiographer and source i.e. SRS. It has to be ensured that drive cable and 
+guide tube are capable to withstand with the stresses caused during the use of gamma projector. 
+Connections between the drive cable and source, and among the lengths/pieces of guide tube 
+should be of such design that source can move freely when connections are properly made. The 
+source should not become loose or stuck in the guide tube. It should be ensured that guide tube 
+and openings of the exposure device are provided with covers to prevent dust from entering 
+into the device.
+6.3 Recommendations for the Use of Drive Cable and Guide Tube 
+Licensee should ensure to use such gamma radiography equipment and accessories i.e. 
+drive cable and guide tube which comply with the following recommendations:
+i. Such guide tube should be used through which the source can move freely . Design 
+of the end cap at exposure end of the guide tube should prevent inadvertent release 
+of the source when it is fully projected;
+ii. Open end of the guide tube should be caped to prevent ingress of dirt, grit and 
+moisture and, if it is flexible, it should withstand repeated flexures without 
+suffering permanent distortion. It should be capable to recover from any 
+temporary distortion caused by a compressive load or flexure;
+iii. Exposure end of the guide tube should be clamped in position during exposure 
+without affecting free movement of cable and source, and should be fitted with a 
+collimator;
+iv. Where a cable is used to move the source, the coupling should ensure that during 
+radiography work, the source (or pigtail) is not detached inadvertently;
+v. Drive cable should typically be 7-15 m and the guide tubes should be 2–6.5 m long 
+according to the actual conditions of exposure to ensure that source is controlled 
+from a location where dose rate is minimum;
+vi. The radiographer must know the distance through which the source is projected 
+from its fully shielded position, through the wind out mechanism;
+vii. In case the source is moved pneumatically, the guide tube should be provided with 
+damping mechanisms, at both ends, to protect the source from damage.
+6.4 Collimators
+Collimators are beam limiting devices and are used to narrow/direct the beam of 
+radiations in a particular direction. Radiographers should ensure that collimators are used, 
+whenever possible, to reduce radiation levels and subsequent doses. Collimators are usually 
+11
+made of lead, tungsten or depleted uranium, and they can provide either panoramic or 
+directional beams. The licensee should ensure that the collimators are compatible with the 
+source assembly, so as to avoid the source to be stuck.
+6.5 Instructions forTesting and Maintenance of Radiography Equipment
+The maintenance consists of complete disassembly of the equipment and a detailed 
+inspection of all the components. Worn or damaged parts should be replaced, wherever 
+required, and suitable lubricant should be applied. The licensee should develop and 
+implement a program for periodic testing/surveillance and preventive maintenance of 
+radiography equipment and its accessories in the light of manufacturer's instructions. It should 
+be ensured that only vendor or specially trained radiographer(s) always perform 
+testing/maintenance of radiography equipment. Records of all maintenance, including the 
+replacement of parts, should be kept.
+Periodic testing/surveillance of the following typical items/devices should be 
+considered in the program:
+i. Exposure device, to ensure that:
+a. Fittings and fasteners are tight;
+b. Locking mechanism functions properly;
+c. Radiation levels are normal;
+d. Connections of guide tube and remote control (crank) are secure;
+e. Pigtail connection to drive cable is secured, using a wear gauge.
+ii. Remote control (crank) and guide tube(s), to ensure that:
+a. Fittings are tight;
+b. There are no indications of crushing, kinks or dents;
+c. Drive cable can move freely;
+d. Source (pigtail) tips are not worn through.
+iii. Safety interlock components and emergency stop devices of shielded
+enclosure(s), to ensure their normal operation;
+iv. Inspection of critical safety components of radiography equipment and its 
+accessories, at least once a year;
+v. Leak test of SRS as per method and frequency recommended by the source vendor 
+or manufacturer.
+[4] 7 X- RAYRADIOGRAPHYEQUIPMENT
+The most common type of X-ray generator used as radiography equipment is the 
+conventional X-ray Tube; however, Linear Accelerators (LINACs) and Cyclotrons are also 
+used in few specialized applications. Some typical examples of X-ray generators are 
+illustrated in Figure-4.
+12
+13
+X-ray generators are mostly used for performing panoramic (radial beam) and 
+directional exposures. The X-ray tube is connected by a cable to the control panel, which 
+provides means for pre-selection and indication of operating parameters. Dose to a 
+radiographer can be affected by the cable length, operating parameters (volts-kV and currentmA) and local shielding around the device being radiographed. Licensee should only use such 
+X-ray generators that satisfy the following minimum safety standards.
+7.1 Electrical Safety
+Electrical safety in an X-ray generator indirectly contributes to radiation safety, since 
+electrical faults in X-ray generators can sometimes result in serious accidents with 
+radiological consequences. In particular, all metallic items including casings, interconnecting 
+cables, power supply unit (transformer/generator), control equipment, tube assembly, 
+warning signals, other safety devices should be electrically bonded together (earth bonding) 
+and connected to earth (grounded). Advice on all electrical matters, as well as on inspection 
+and testing, should be obtained from a qualified electrical engineer or specialized service 
+engineer, if required.
+7.2 Cable Length
+Where radiography cannot be carried out in a shielded enclosure, cable lengths should 
+typically be not less than 20 meters for X-ray generators up to 300 kV and longer for higher 
+energy equipment.
+7.3 Collimators and Beam Filters
+The licensee should ensure that the X-ray generators used for directional radiography 
+should, wherever practicable, be fitted with collimators (sometimes called cones or 
+diaphragms) to limit the beam size to the minimum compatible with the radiographic 
+technique. Beam filters should be used to match the filtration with the work being undertaken. 
+Figure 4: X-ray Generator used for Industrial Radiography
+14
+7.4 Control Panel
+The licensee should consider following features in a control panel while selecting an Xray equipment. It should bear:
+i. A label incorporating radiation warning sign (trefoil), a legend indicating that Xrays are emitted when the equipment is operating and a warning label (in a local 
+language) prohibiting unauthorized use;
+ii. A key switch to prevent unauthorized use of equipment. The key should be 
+removable only when the switch is in 'OFF' or 'Standby' position (i.e. it should not 
+be possible to lock the system in 'ON' condition). Key positions should be clearly 
+marked;
+iii. A labeled warning light (fail-safe) which indicates that the equipment is 
+powered/energized (i.e. ready to emit X-rays);
+iv. A separate labeled warning light (fail-safe) which indicates that the equipment is 
+actually emitting X-rays;
+v. Atimer that controls the exposure duration or 'ON' switch that requires continuous 
+pressure by a radiographer to maintain the generation of X-rays;
+vi. Indicators that show the kilovolts (kV) and the current in milli-amperes (mA) 
+when the X-ray beam is 'ON';
+vii. Aclearly labeled means to immediately terminate the generation of radiation.
+7.5 X-ray Tube Head
+The licensee should ensure that the X-ray tube head is supported in a suitable stand or 
+clamped in a position to prevent it from inadvertently moving. Leakage radiation (i.e. leakage 
+that passes through the sides of the device rather than pass from the beam aperture) should be 
+restricted by good design and construction and its level should be specified by the 
+manufacturer. The penetrating power of leakage radiation depends on the kilo voltage and is 
+particularly significant above 500 kV. Maximum dose rates due to leakage radiation at the 
+surface of the device and at one (1) meter from the X ray target should be obtained from the 
+manufacturer/vendor. Typical maximum dose rate values from leakage radiation arising from 
+commercial X-ray tubes are up to 100 μSv/h at one (1) meter from the target. 
+7.6 Flash X-ray Units
+Some X-ray based radiography equipment emit very short pulses of X-rays and the 
+exposure duration is set in terms of number of pulses. Such radiography equipment are called 
+flash X-ray units. These are often small, portable, battery driven units and are mainly used for 
+the radiography of items of low density or very low wall thickness. Whereas, large such units 
+are less often used in shielded enclosures where high output and extremely short exposure is 
+required. The licensee should apply the same precautions that are used for ordinary X-ray 
+equipment along with any additional safety precautions as determined on the bases of dose 
+assessment. Most survey/dose meters are not suitable for the measurement of dose around 
+flash X-ray units because exposure duration is extremely short and their response time is 
+relatively slow. Therefore, it is advisable to use suitable integrating survey/dose meters. 
+7.7 Inspection, Testing and Maintenance of X-ray Equipment 
+In order to ensure continued radiography operations, the licensee should arrange both; 
+the routine surveillance as well as formal inspections/maintenance of X-ray equipment 
+(including all accessories) to be performed by the manufacturer/vendor or a qualified 
+engineer. Licensee should ensure that equipment is not modified without prior assessment of 
+the implications of the modification on its original design and the safety assessment. Any parts 
+to be replaced should be procured from the authorized merchant in order to ensure designed 
+safety specifications/parameters.
+The licensee should perform following periodic surveillance activities for their X-ray 
+equipment:
+i. Checks to ensure electrical safety i.e. earth bonding and electrical insulation of 
+cables;
+ii. Cleaning/replacing of filters, if any, of cooling system(s);
+iii. Checks to ensure there is no leakage from the X-ray tube head;
+iv. Checks to ensure that cables are in good working condition and wires are not 
+frayed/exposed;
+v. Tests on interlocks and emergency cut-out switches;
+vi. Tests on permanently installed radiation detectors inside radiography enclosures;
+vii. Any other tests and maintenance as recommended by the manufacturer/vendor.
+The licensee should establish, maintain and implement a program for maintenance of the 
+equipment. It should be ensured that only manufacturer/vendor or specifically trained 
+operator(s) perform such maintenance. The maintenance should be performed at least once 
+per year or more, if the equipment is used in severe environmental conditions, such as 
+excessive dirt, extreme humidity or is frequently moved within/outside the premises. Nonfunctioning or damaged parts of the equipment should be replaced at the earliest, whenever 
+necessary. Record(s) of all maintenance activities, including replacement of parts, should be 
+maintained and made available during the inspection(s).
+8 TYPES OF INDUSTRIAL RADIOGRAPHY
+ Industrial radiography is carried out under a variety of exposure conditions. The 
+radiography, with respect to exposure conditions, is generally classified into two categories 
+i.e. radiography in a shielded enclosure (specially designed exposure room/bunker) and a site 
+radiography (performed in the field or in a client's premises). Owner/Licensee is responsible 
+to ensure protection of workers, public and the environment, in both the exposure situations. 
+In addition to the responsibilities as specified in Section 4.1, following recommendations 
+should also be implemented during both types of radiography activities:
+[4,5] 8.1 Recommendations forShielded Enclosure 
+Ashielded enclosure is an enclosed space specially designed and engineered to provide 
+15
+adequate shielding against ionizing radiations to the workers and other individuals in the 
+vicinity. The enclosure should be designed to keep all, direct and scattered, radiations arising 
+from radiographic exposures within itself by permitting operation of radiography equipment, 
+from outside, by a remote means (i.e. crank or a control panel). It should incorporate 
+engineering controls to prevent or to minimize the potential exposure of workers who might 
+enter the enclosure when the source(s) (i.e. SRS or an X-ray generator) is exposed or 
+energized. The licensee should ensure that industrial radiography is always performed inside a 
+shielded enclosure, whenever it is reasonably practicable. No one should remain inside the 
+enclosure during exposure. Following precautions should be taken for the radiography 
+performed in a shielded enclosure:
+i. The bunker should be constructed in a way that the doors/ports, walls, floor and 
+the ceiling, form a complete shielded enclosure;
+ii. The shielding should be sufficient to ensure that during exposure; instantaneous 
+dose rate outside the enclosure should be in the range of 2.5 - 20 Sv/hr at one (1) 
+foot from the walls;
+iii. Shielding and the location of enclosure should be such that no worker or a member 
+of public should receive an effective dose in excess of 5 mSv and 1 mSv per year 
+respectively from exposures carried out within it;
+iv. There should be a single access point for the radiography enclosure with a warning 
+notice/sign displayed at it. A warning light should also be provided capable of 
+illuminating during exposure and visible from outside the enclosure;
+v. Interlocks should be installed at the access point of the enclosure capable of 
+activating a visible and audible alarm if any interlock is opened/bypassed during 
+the exposure;
+vi. Door and panels covering access apertures into the enclosure should overlap with 
+those apertures by a sufficient margin to prevent any leakage of radiations from 
+the enclosure. Where a maze is used for the access, a lockable door or barrier 
+connected to an interlock should be provided;
+vii. Since, dose rates are very high inside the enclosure, during radiography work, 
+therefore, it should be designated as a controlled area. However, it is not required 
+to be designated as a controlled area when it is not in use;
+viii. The enclosure should be designed in such a way that there should be no controlled 
+area outside it. However, the area surrounding the shielded enclosure might be 
+designated as a supervised area, if situation warrants.
+[4] 8.2 Recommendations forSite Radiography 
+A great deal of industrial radiography operations are performed without any shielded 
+enclosure due to economy, convenience and practical necessity. Such radiography is called as 
+site radiography. Particular care should be exercised, during site radiography, to avoid 
+unnecessary exposure of workers and individuals in the vicinity and to keep all the exposures 
+as low as reasonably achievable. Collimators should be used to the extent practicable to 
+restrict the radiation beam to the object being radiographed.
+16
+The licensee is responsible to implement following precautions for the radiography 
+performed in an open site: 
+i. Before undertaking site/field radiography, appropriate working rules should be 
+established and adhered to at all times;
+ii. A set of site working rules should be available at site and the radiography crew 
+should ensure that they are familiar with such rules that apply to planned exposure 
+situations. Any modifications or additional rules to meet the particular situation 
+should be developed in consultation with the RPO;
+iii. Before commencing radiography in an open site/field, a well-defined and clearly 
+visible boundary should be established using warning signs, barriers, flagged 
+rope, etc. The boundary should be located such that the calculated dose rate at the 
+boundary during exposure should not exceed the regulatory limit of 10 µSv/hr. 
+Actual dose rate at the boundary should be measured during exposure using a 
+survey meter and location of the boundary should be rectified as necessary before 
+subsequent exposures;
+iv. The boundaries of adjacent sites/fields should not overlap each other. If overlap is 
+unavoidable; close liaison should be maintained between radiography crew 
+responsible for the adjacent sites to avoid accidental exposure;
+v. Control panel (or crank) should be placed at such a location that the dose rate 
+remains as low as reasonably achievable. During exposure, the radiographer, 
+whenever possible, should move quickly to a location where the dose rate does not 
+exceed the regulatory limit of 25 µSv/hr. The dose rate at the control panel, if 
+occupied, or at the position taken up by the radiographer during exposure should 
+be checked regularly by using a survey meter;
+vi. Immediate surroundings of the exposure device should be clearly visible from the 
+control panel and from the position taken up by the radiographer during exposure. 
+The area inside the delineated boundary of an open site/field should be inspected, 
+prior to exposure, to ensure that no worker or an individual is inside it. It should be 
+kept under observation at all the times during exposure to ensure that no one 
+enters into it;
+vii. Appropriate warning light(s) and an audible alarm located immediately adjacent 
+to the exposure device should be used to indicate that an exposure is underway;
+viii. Megaphone should also be made available to warn people in the vicinity not to 
+enter the demarked area.
+[1] 9 AREACLASSIFICATION AND LOCALRULES 
+An area in which work involving radiation source(s) is undertaken is called radiation 
+area. It is required to be specifically classified on the bases of potential for exposure to workers 
+and individuals working in that area. It is classified into two types namely; controlled area and 
+supervised area.
+9.1 Controlled Area
+The licensee should make arrangements to designate a radiation area as a controlled area 
+17
+where specific protective measures or safety provisions are required for:
+i. Controlling normal exposures;
+ii. Preventing or limiting the extent of any potential exposures.
+The licensee should ensure that the area where there is a likelihood of receiving an 
+effective dose exceeding 6 mSv/year (i.e. 0.69 μSv/hr) or 3/10th of the annual dose limit is 
+designated as a controlled area.
+9.2 Recommendations forControlled Area
+The licensee is responsible to ensure that followings recommendations are followed by 
+the radiation workers while working in a controlled area:
+i. A controlled area should be physically delineated. The radiation warning signs 
+and notices clearly stating “controlled area” should be prominently displayed at 
+all access points;
+ii. Access to controlled areas should be restricted to authorized persons only. The 
+degree of restriction should be commensurate with the magnitude and likelihood 
+of potential exposures; 
+iii. Workplace monitoring should be carried out all around the controlled area. 
+Suitable dose rate monitors (with measuring range from µSv/hr to mSv/hr) should 
+be used for this purpose;
+iv. Arrangements should be made for calibration and testing of radiation monitoring 
+instruments at regular intervals (preferably on annual basis); or as recommended 
+by the Secondary Standard Dosimetry Laboratory (SSDL) or any other certified 
+service provider;
+v. Local rules should be strictly followed, at all times, during the work in a 
+controlled area.
+9.3 Supervised Area
+The licensee should make arrangements to designate a radiation area as a supervised 
+area where occupational exposure conditions are required to be kept under review. Even 
+though specific protection measures and safety provisions are not normally applied in a 
+supervised area, however, exposure conditions should be kept under review.
+The licensee should ensure that an area where there is a likelihood of receiving an 
+effective dose exceeding one (1) mSv/year (i.e. 0.11 μSv/hr) or equivalent dose greater than 
+1/10th of the annual dose limit is designated as a supervised area. 
+Usually, all the delineated areas are controlled areas, rather than a supervised area, in 
+industrial radiography. Supervised areas mostly exist in case of a radiography in a shielded 
+enclosure (room/bunker) rather than the site/field radiography. For example, the area where 
+the control panel is situated outside a shielded enclosure may often be classified as a 
+supervised area.
+18
+9.4 Recommendations forSupervised Area
+The licensee should ensure that followings recommendations are followed by workers 
+while working in a supervised area:
+i. The extent of supervised area should also be delineated; 
+ii. Appropriate radiation warning signs should be posted at all access points;
+iii. Periodic dose-rate monitoring should be carried out in and around the supervised 
+area to ensure that working conditions are kept under review;
+iv. Established local rules should be followed during the work in a supervised area.
+9.5 Local Rules
+Local rules are a set of instructions that specify the manner in which the work should be 
+carried out to ensure adequate level of protection of worker. All industrial radiography work 
+should be carried out in accordance with a set of established local rules. It is responsibility of 
+the licensee to establish local rules and ensure their implementation during radiography work. 
+The licensee should ensure that these local rules describe their organizational structure and the 
+procedures to be followed in a radiation area. These should be set down in writing preferably 
+in local language and should be made available to all the workers involved in radiography.
+The format and detailed content of local rules may vary among the organizations depending on 
+the type of radiography being undertaken and circumstances of work, however, it should 
+include the following as a minimum:
+i. Identification of individual(s) responsible for supervision of work along with 
+their names and designations;
+ii. Description of all controlled and supervised areas. For radiography in a shielded 
+enclosure this may be specific to the premises where the work is carried out. 
+However, for site radiography this may be a general description of conditions 
+under which controlled or supervised areas are considered to exist;
+iii. General radiation safety procedures and instructions on how work should be 
+carried out in order to keep the exposure minimum;
+iv. Value of dose investigation level (set by the Licensee/RPO) and corresponding 
+actions/procedures to be followed in the event of that level being exceede
+v. Emergency plan describing actions to be taken in the event of any reasonably 
+foreseeable incident or accident.
+[5] 10 STORAGE OFRADIOGRAPHYEQUIPMENTAND SOURCES 
+The licensee should ensure that the place where the radiography equipment and the 
+sources (i.e. SRS and X-ray generators) are stored, fulfill the following recommendations:
+i. Radiography equipment should be kept in a room that is not used for any purpose 
+other than for the storage of radiography equipment and its accessories;
+19
+ii. The storage room should be constructed with the material of sufficient durability 
+and strength to resist fire and unauthorized entry;
+iii. The dose rate outside the storage room should be as low as reasonably achievable 
+and it should be ensured that dose rate inside it is less than 2.5 μSv/h, or any 
+member of public will not receive dose exceeding one (1) mSv per year;
+iv. The storage room should be under the control of a responsible person (e.g. RPO) 
+designated by the licensee and should be kept locked except when removing or 
+replacing the radiography equipment and/or sources;
+v. The log-book for the issuance of keys should be maintained;
+vi. The storage room should have a conspicuous notice bearing the word 
+“CAUTION” and a radiation warning sign indicating that it is storage for 
+radiography equipment and sources;
+vii. The notice, or a separate but adjacent notice, should contain instructions for 
+contacting the responsible person (i.e. RPO) in case of an emergency;
+viii. The storage room should not be located in proximity to explosives, combustible, 
+corrosive materials, or undeveloped photographic films;
+ix. Physical security of storage room should also be ensured. The storage room 
+should have only one access door, so that it may not be used as a thorough fare.
+[3] 11 TRANSPORTOFRADIOGRAPHYSOURCES 
+The deliberate physical movement of radioactive material from one place to another is 
+called transport. PNRA Regulations on Transport of Radioactive Material - PAK/916 assign 
+responsibilities to individuals involved in transport of radioactive materials. These 
+individuals include:
+i. The consignor (a person or organization that prepares a consignment for 
+transport);
+ii. The carrier (the person or organization that undertakes transport of radioactive 
+material); and 
+iii. The consignee (the person or organization that receives a consignment). 
+In many cases, for site radiography work, the licensee itself is responsible to perform all 
+three functions and is required to discharge the responsibilities associated with each function.
+For the transportation of a radioactive material (i.e. radiography sources) within or 
+outside the premises, the licensee is responsible to ensure the following:
+i. Radiation monitoring should be conducted before, during and after the 
+transportation to verify that the source is in a shielded position;
+ii. When radiography sources are to be moved within a site, for radiography work, 
+they should be kept in the storage facility until they are ready to move to a new 
+location. Ancillary equipment should be disconnected from the devices, and all 
+required plugs and caps should be installed prior to movement;
+20
+iii. The sources should be moved only in packages (i.e. exposure devices), and these 
+should be locked and keys should be removed. If a vehicle or trolley is used to 
+move the package, the package should be stowed or securely fastened to the 
+vehicle or trolley so as to prevent any shift under any transport incident. The 
+exposure devices should be kept under surveillance for the duration of movement 
+on work location;
+iv. When sources are to be transported to another work location, for the purpose of 
+site radiography, they should be kept in a designated storage facility until they are 
+moved to a new location. All ancillary equipment should be disconnected and all 
+required plugs and caps should be installed prior to transport;
+v. The licensee should ensure that the transport and the transport packages comply 
+with the requirements of PAK/916. Where applicable, binding international 
+instruments (i.e. codes and standards) for specific modes of transport e.g. by air or 
+sea, should also be considered;
+vi. The package containing radiography source should be placed in a vehicle in such a 
+way that the maximum dose rate for any person traveling in the vehicle shall not 
+exceed 20 µSv/h;
+vii. The compartment where such package is stowed should be locked and it should 
+not be left unattended, if placed in the back of an open vehicle, at any time during 
+the transport;
+viii. Special arrangements for security of radiography sources, during transport, 
+should also be made.
+11.1 Actions Following Loss of orDamage to a Package During Transport
+If the package containing a radiography source is damaged or appears to be damaged 
+during transport, the licensee/owner should immediately take following actions:
+i. Person(s) responsible for safety/security of the package, at the time of 
+incident/accident, should notify the licensee/owner and the RPO about the 
+incident/accident;
+ii. The licensee/owner and/or the RPO should ensure that the package is carefully 
+examined to verify that it continues to comply with transport requirements. 
+Radiation survey should be carried out to ensure that the radiation levels at a 
+distance of five (5) cm, at the surface and at one (1) meter from the surface of the 
+package are within acceptable range (i.e. category of package). In case if levels 
+are exceeded, then the established emergency procedures should be followed [2]; 
+iii. If package is lost or theft during transport, the person(s) responsible for its 
+safety/security should notify the licensee/owner and the RPO, and provide all 
+relevant information that could facilitate an early recovery of the package.
+[1] 12 ACCOUNTABILITYOFRADIOGRAPHYSOURCES 
+Licensee should make necessary arrangements for the safety and security of the 
+radiography sources (i.e. SRS and X-ray generators) so as to prevent the loss, theft, damage 
+21
+and any unauthorized transfer or access to the sources. An accountability system, for such 
+sources, should be established and maintained. 
+Formal record containing the following information about the sources, wherever 
+applicable, should be retained:
+i. Name, identification/serial number, physical form and activity of sources with 
+reference date (for SRS only);
+ii. Maximum tube potential difference (kV) and current (mA), or maximum X-ray 
+energy (keV) and maximum output (dose rate);
+iii. Manufacturer, model and identification number of exposure device(s)/package(s) 
+and/or X-ray generator(s);
+iv. Total number of sources in the custody including in use/disused SRS;
+v. Log for issuance and receipt of sources along with name of responsible person 
+with dates;
+vi. Location of radiography work/site for which the source was issued;
+vii. Detail of disposed sources including date and method of disposal.
+Through such accountability, the licensee should ensure that the locations of 
+radiography sources are known at all times and losses are quickly identified and recovered. 
+The record should always be kept updated and should be made available for verification 
+during regulatory inspections. An updated inventory sheet of the sources should be submitted 
+to the Authority biannually or earlier, if so desired by the Authority. 
+13 LEAK TESTING
+The purpose of leak testing is to ensure that the sealed radioactive sources remain intact 
+and that there is no leakage or dispersal of radioactive material from the housing/casing of the 
+source. Radiography sources (i.e. SRS only) should be “leak tested” at regular intervals as 
+specified by the Authority. It should be noted that the frequency of the leak test ranges from 
+biannually to once in several years. For instance, typical Cobalt-60 sources of activity greater 
+than 370 GBq (10 Ci) are leak tested at every six (6) or twelve (12) months interval. Whereas, 
+Iridium-192 sources are not normally leak tested because of their short half lives, they are 
+typically disused within a year.
+[4] 14 EMERGENCYPREPAREDNESS AND RESPONSE 
+Ever increasing application of ionizing radiation in industrial radiography requires 
+having emergency preparedness and response arrangements in place to cater for the potential 
+radiation emergencies associated with it. In industrial radiography, accidents/incidents may 
+result in undue exposure of workers and members of the public. PNRA regulations PAK/914 
+requires the licensee to develop radiation emergency plan to be implemented during the course 
+of an emergency. The purpose of such emergency planning is to control/restrict undue 
+exposures As Low As Reasonably Practicable (ALARP). 
+The concept of emergency preparedness and response is based on following major 
+22
+components:
+i. Assessment of hazards
+ii. Preparation of emergency plan and procedure(s)
+iii. Acquisition of emergency equipment
+iv. Conduct of training drills/exercises 
+v. Periodic review of emergency plan and equipment
+vi. Incident reporting
+14.1 Assessment of Hazards
+Emergency planning starts with an assessment of hazard which involves analysis of 
+normal operating conditions, foreseeable abnormal conditions (such as equipment 
+malfunction/failure, fire, flood, earthquake etc.), all possible types of accidents/incidents and 
+their anticipated consequences. Experience feedback and analysis of past accidents/incidents 
+in industrial radiography shows that most likely events involving radiography devices 
+include, but not limited to, the following:
+i. Failure of radiographer to retract the radiography source and/or to perform 
+pre/post job area survey
+ii. Stuck of source in the guide tube, collimator or near the entrance of the exposure 
+container
+iii. Malfunctioning or defect in the safety control system
+iv. Entry of personnel into the controlled area during the exposure
+v. Un-intentionally energizing the X-ray machine
+vi. Spread of contamination due to leaked or damaged radiography source(s)
+vii. Handling/recovery of lost/stolen radiography source
+viii. Damage of radiography source container
+ix. Accident during transport of radiography source
+All of the events enlisted above usually involve higher dose(s), in access of the 
+prescribed dose limits, that may cause localized exposure resulting in severe radiation 
+injury(ies).
+14.2 Preparation of Radiation Emergency Plan and Procedure(s)
+Licensee is responsible to prepare its radiation emergency plan and necessary 
+implementing procedure(s) to cater for all the foreseeable types of incidents/emergencies. It 
+should be concise and include a description of situations requiring emergency response 
+actions. In particular, it should specify immediate actions to be taken, to minimize radiation 
+exposure to individuals, in the vicinity of the source/incident.The implementing procedure(s) 
+should describe the name(s) of the response officials, their contact details and means of 
+communication during on and off working hours. The list of individuals/organizations having 
+a role in implementation of the emergency response plan may include the following:
+Ÿ Radiation Protection Officer (RPO)
+23
+Ÿ Qualified Expert
+Ÿ PNRA(NRECC/Relevant RNSD)
+Ÿ Medical Doctor
+Ÿ Local Administration
+Ÿ Emergency Services (Rescue 1122, Fire Fighting, Local Police, etc.)
+Ÿ Security Incharge of the Facility
+The licensee should provide the copy of its approved radiation emergency plan and its 
+implementing procedures to all relevant stakeholders.
+14.3 Acquisition of Emergency Equipment
+The licensee of an industrial radiography facility should acquire/posses sufficient 
+equipment to adequately respond to any anticipated emergency situation. This list of 
+necessary emergency equipment may vary, however, it is likely to include the items as given in 
+the table below:
+In addition to the written and approved emergency plan; any supporting documents e.g. 
+equipment operation manuals, etc. may also be included with the emergency equipment.
+14.4 Conduct of Training Drills/Exercises 
+In order to develop the capabilities required to implement radiation emergency plan, the 
+licensee should train its staff to deal with the identified emergency situation(s). This training 
+may include handling of emergency equipment and implementation of radiation emergency 
+plan and its implementing procedure(s). Once this response capability is developed, specific 
+drills and full scope emergency exercises should be conducted periodically (preferably once 
+in a year). Such exercises not only help in providing training to emergency response workers 
+but also test and validate the approved radiation emergency plan of the facility. The schedule 
+of these emergency drills/exercises should be communicated to the Authority, well in advance, 
+so that the Authority may witness the conduct of such drills/exercises. 
+Sr. No. Type Items
+1. Radiation Monitoring 
+Instruments
+Ÿ High-Range Survey Meter (RID)
+Ÿ Electronic Personal Dosimeter (EPD)
+Ÿ Radionuclide Identification Device (RID)
+2. Personal Protective 
+Equipment (PPE)
+Ÿ Protective Clothing
+Ÿ Lead Shots/ Bricks
+Ÿ Long Tongs
+Ÿ Lead Goggles/ Gloves
+Ÿ Shielded Container
+3. Communication 
+Equipment
+Ÿ Walkie-Talkie
+Ÿ Mobile Phones
+4. Supplies
+Ÿ Radiation Warning Signs
+Ÿ Barricading Tape
+Ÿ Mega Phone
+Table: List of Emergency Equipment
+24
+14.5 Periodic Review of Emergency Plan and Equipment
+The licensee should conduct formal review of emergency plan and implementing 
+procedure(s) annually to ensure that:
+i. All responsible persons within the facility and relevant off-site organizations 
+whose role is anticipated during response to a radiological emergency have been 
+identified and their relevant contact details (i.e. telephone numbers and fax 
+numbers) are up to date;
+ii. Emergency equipment (as enlisted in Section 14.3) is readily available and is 
+maintained in operable condition.
+Such periodic reviews should take into account the lessons learnt from drills/exercises 
+or in response to actual incidents/emergencies and should form the basis for revision/updation 
+of emergency response plan and/or its implementing procedures.
+14.6 Incident Reporting
+The licensee should notify any incident involving radiation source and warranting 
+emergency response actions to the Authority through incident reporting performa. Such 
+notifications should be followed up by a detailed written incident report that should include 
+the following:
+i. Description of incident/emergency;
+ii. Actions taken to mitigate the situation, to regain the control and to restore the 
+conditions to normal;
+iii. Root cause of the accident;
+iv. Training and experience of the personnel involved;
+v. Assessment of exposures (of the personnel involved);
+vi. Lessons learnt/ experience feedback;
+vii. Recommendations/ corrective actions.
+The incident/emergency reports should be prepared by the RPO and approved by the 
+management, before submitting to the Authority.
+15 REFERENCES
+1. Regulations on Radiation Protection - PAK/904
+2. Regulations on Management of a Nuclear or Radiological Emergency - PAK/914 
+(Rev.0)
+3. Regulations for the Safe Transport of Radioactive Material - PAK/916
+4. Radiation Safety in Industrial Radiography, Specific Safety Guide No. SSG-11, 
+IAEA, 2011
+5. Code of Practice for the Safe Use of Industrial Radiography Equipment, 
+Radiation Health Series No. 31, National Health and Medical Research Council, 
+Canberra, Australia, 1989
+25
+GLOSSARY
+(a) "Absorbed Dose" is a measure of energy that is deposited in a material per unit mass 
+from any interaction with radiation. It does not take into account the nature of radiation i.e. 
+whether it is α, β, gamma, X-ray or neutron.
+The S.I. unit of absorbed dose is Joule per Kilogram (J/Kg), termed as Gray and 
+abbreviated as Gy.
+(b) "Activity" means the amount or strength of radioactive source/material. Activity (A) is 
+the number of radioactive atoms (N) disintegrating in a unit time (t). The formal expression is:
+A = N / t
+S.I. unit of Activity is Becquerel (Bq), which is equal to one disintegration per second. 
+These are expressed using a range of prefixes with the basic unit. Common multiples 
+(prefixes) associated with activity of the sources used in industrial radiography are given in 
+Table-1. The choice of the activity of a source depends on nature of its application.
+Although the S.I. unit of activity is Becquerel; however, the older unit i.e. Curie (Ci) is 
+still commonly used.
+10 1 Ci = 3.7 x 10 Bq = 37 Gbq
+(c) "Dose Limits" are the set levels to prevent the occurrence of threshold, deterministic 
+effects, and to restrict the probability of occurrence of stochastic effects to very low levels. 
+Dose limits as prescribed in Annexure-III of PNRA Regulations on Radiation Protection, 
+PAK/904 [1] are reproduced in Table-2 below.
+(d) "Dose Rate" is a measure of the dose received at a location over a certain period of time.
+Dose rate = Dose / Time
+Dose rate is normally expressed in terms of µSv or mSv per hour and may be measured 
+with a hand held radiation monitor.
+Multiples of Bq Prefix Abbreviation
+1
+1000
+6
+1,000,000 [10 ]
+9
+1,000,000,000 [10 ]
+-
+Kilo (K)
+Mega (M)
+Giga (G)
+Bq
+KBq
+MBq
+GBq
+Table 1: Multiples & Prefixes (Activity)
+Dose Limit for Dose Quantity
+Does Limit (mSv/y)
+Workers above 
+18 Years Old
+Apprentices/Students 
+(16-18 Years)
+Members of 
+the Public
+Whole Body
+Lens of the Eye
+Extremities (Hands, 
+Feet) &/or Skin
+Effective Dose
+Equivalent Dose
+Equivalent Dose
+20
+150
+500
+6
+50
+150
+1
+15
+50
+Table 2: Dose Limits
+26
+(e) "Effective Dose" means the sum of equivalent tissue doses (H ) each multiplied by an T
+appropriate tissue weighting factor, (W ). [1] T
+E = Σ WT
+. HT
+S.I. unit of effective dose is same as that of equivalent dose, i.e. the Sievert (Sv). Tissue 
+weighting factors (W ) used in determining effective dose are given in Table-3. T
+(f) "Equivalent Dose" is defined as a product of average absorbed dose (D ) received by a T,R
+tissue (T) from radiation (R) times the radiation weighting factor (W ) [1]: R
+HT,R= WR . DT,R
+S.I. unit of equivalent dose is Joule per Kilogram (J/Kg), termed as Sievert and 
+abbreviated as Sv. Radiation weighting factors used in determining equivalent dose are given 
+in the Table-4.
+(g) "Half-Life" means the time taken by a radioactive material to decay to a value which is 
+half of its original activity and is constant for a specific radionuclide. The half lives of 
+commonly used radiography sources (SRS) are given in Table-5.
+Organ/ Tissue WT Organ/ Tissue WT
+Bone marrow 0.12 Lung 0.12
+Bladder 0.04 Oesophagus 0.04
+Bone surface 0.01 Skin 0.01
+Breast 0.12 Stomach 0.12
+Colon 0.12 Thyroid 0.04
+Gonads 0.08 Brain/Salivary Glands 0.01
+Liver 0.04 Remainder 0.12
+Table 3: Tissue Weighting Factors
+Type of Radiation WR
+β-rays, γ-rays, X-rays
+Neutrons
+α-Particles
+1
+5-20
+20
+Table 4: Radiation Weighting Factors (W )R
+Table 5: Half Lives
+Radionuclide Half Life
+Cobalt (Co-60) 5.2 Years
+Iridium (Ir-192) 74 Days
+Cesium (Cs-137) 30 Years
+27
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+P.O. Box 1912, Islamabad
+PROTECTION OF PATIENTS IN DIAGNOSTIC RADIOLOGY
+REGULATORY GUIDE
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+December, 2017 PNRA-RG-904.05
+(Rev. 0)
+For Further Details 
+Directorate of Policies & Procedures
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+P.O. Box 1912, Islamabad
+www.pnra.org
+PROTECTION OF PATIENTS IN DIAGNOSTIC RADIOLOGY
+ABSTRACT
+“Radiology” is the most extensive and commonly used application of ionizing radiation 
+and it gives largest amount of radiation dose to the population worldwide. Since, 
+radiology is an important tool for diagnosis, therefore, diagnostic procedures have 
+become routine part of clinical life and the number of such procedures is ever increasing. 
+Keeping in view the diversity of patients and nature of their examinations, dose limits are 
+not applicable in diagnostic procedures. In fact, the guidance levels are established for 
+radiological procedure so that required clinical information for diagnosis may be 
+obtained at a reasonable amount of radiation dose; which is the ultimate goal of 
+“optimization in patient doses”.
+The patient doses are affected by a number of parameters such as equipments, techniques 
+and expertise. This regulatory guide addresses the appropriateness of operating 
+parameters such as mAs, kVp and; equipments including grid, collimator and image 
+receptors; techniques like general radiography, mammography and fluoroscopy; and 
+knowledge/skills of operating personnel. In addition to this, various administrative issues 
+such as responsibilities and training of workers have also been addressed in this 
+regulatory guide. 
+
+TABLE OF CONTENTS
+1 INTRODUCTION........................................................................................................1
+2 OBJECTIVE ...............................................................................................................1
+3 SCOPE ...............................................................................................................1
+4 PRINCIPLES OF RADIATION PROTECTION AND PATIENT SAFETY .........1
+4.1. Justification........................................................................................................1
+4.2. Optimization ......................................................................................................1
+5 RESPONSIBILITIES OF MEDICAL/HEALTH PROFESSIONALS....................2
+5.1. Responsibilities of Radiologist ..........................................................................2
+5.2. Responsibilities of Medical Physicist/Radiation Protection Officer (RPO)......2
+5.3. Responsibilities of Radiographer/Operator .......................................................3
+6 FACTORS AFFECTING DOSES IN X-RAY IMAGING PROCEDURES............3
+6.1. Radiography.......................................................................................................4
+6.1.1 Factors Affecting Dose in Conventional Radiography..........................4
+6.1.2 Factors Affecting Dose in Digital Radiography....................................5
+6.2 Mammography...................................................................................................5
+6.2.1 Factors Affecting Dose in Mammography ............................................5
+6.3 Fluoroscopy .......................................................................................................6
+6.3.1 Factors Affecting Dose in Fluoroscopy.................................................6
+6.3.2 Patient Doses in Fluoroscopy................................................................7
+6.4 Computed Tomography (CT).............................................................................8
+6.4.1 Factors Affecting Dose in Conventional CT.........................................8
+6.4.2 Factors Affecting Dose in Spiral CT.....................................................9
+6.5 Dental Radiology ...............................................................................................9
+6.5.1 Factors Contributing Dose Variation.....................................................9
+6.6 In Utero Exposure in Diagnostic Radiography................................................10
+6.6.1 Factors Affecting Fetal Dose in Diagnostic Radiography...................10
+6.6.2 Fetal Dose Estimation in Diagnostic Radiography .............................10
+6.7 Film Processing................................................................................................11
+7 MANAGING PATIENT DOSES...............................................................................12
+7.1 Developments in Equipments and Accessories ...............................................12
+7.2 Referrals...........................................................................................................13
+7.3 Education and Training....................................................................................13
+7.4 Dose Guidance Levels.....................................................................................13
+7.5 Clinical Dosimetry in Radiology .....................................................................15
+7.5.1 Entrance Surface Dose ........................................................................15
+7.5.2 Dose Area Product...............................................................................16
+7.5.3 CT Dose Index.....................................................................................16
+7.6 Assessment of Exposure to the Patient at Individual X-ray Facilities.............16
+8 REFERENCES ...........................................................................................................17
+GLOSSARY.............................................................................................................................18 
+
+1 INTRODUCTION
+Medical exposures constitute the largest component of radiation dose to population from 
+radiation sources [1]. According to United Nations Scientific Committee on the Effects of 
+Atomic Radiation (UNSCEAR), there are over 3.6 billion medical radiation imaging 
+procedures carried out annually. According to survey conducted by UNSCEAR for the period 
+from 1997-2007, total effective dose from medical diagnostic examinations is estimated to 
+have increased approximately 70% [2]. The radiation protection is, therefore, becoming 
+increasingly important to ensure radiation safety of the patients. PNRA “Regulations on 
+Radiation Protection - (PAK/904)" establish dose levels for diagnostic and interventional 
+radiology. These guidance levels serve as baseline for the development of protocols for 
+minimization of patient doses subject to diagnostic procedures. Dose reduction requires 
+careful attention to equipment specifications. Any modifications in operational factors may 
+result in variation of dose to patient(s). All attempts should be made to conform to good 
+radiation practices and to minimize doses to individual patient.
+2 OBJECTIVE
+The objective of this regulatory guide is to provide guidance to the licensees of medical 
+facilities and describe different ways through which doses can be reduced without 
+compromising the diagnostic information.
+3 SCOPE
+This regulatory guide applies to individuals, practices or facilities where diagnostic or 
+interventional diagnostic examinations are performed.
+4 PRINCIPLES OFRADIATION PROTECTION AND PATIENTSAFETY
+4.1. Justification
+Medical exposures should be justified by weighing the diagnostic benefits they produce 
+against the radiation detriment they might cause, taking into account the benefits and risks of 
+available alternative techniques such as Ultrasonography (USG), Magnetic Resonance 
+Imaging (MRI), etc.
+4.2. Optimization
+The optimization of radiation protection and safety, when applied to the exposure of 
+workers and members of the public, attendants and comforters of patients undergoing 
+radiological procedures, is a process of ensuring that likelihood and magnitude of exposures 
+and the number of individuals exposed are As Low As Reasonably Achievable (ALARA), with 
+economic, societal and environmental factors taken into account. 
+In diagnostic radiology, the required clinical information for diagnosis can be obtained 
+1
+with minimum exposure of patients by taking into account:
+Ÿ The relevant information from previous examinations in order to avoid unnecessary 
+additional examinations; 
+Ÿ Proper selection of equipment and procedures;
+Ÿ Qualification and continuous training of workers;
+Ÿ Effective quality assurance program; 
+Ÿ The relevant guidance levels for medical exposure;
+Ÿ Assessment/audits of practices for continuous improvement.
+5 RESPONSIBILITIES OFMEDICAL/HEALTH PROFESSIONALS
+As per Regulation 35(1)(b) of “Regulations on Radiation Protection - (PAK/904)", "The 
+licensee shall ensure that medical professionals are assigned the primary task and obligation of 
+ensuring overall patient protection and safety in the prescription of, and during the delivery of, 
+medical exposure" [3]. The first step in reduction of patient doses is the availability of a 
+qualified Radiologist, Medical Physicist/Radiation Protection Officer (RPO) and
+Radiographer.
+Responsibilities of medical/health professionals regarding protection of patients in 
+diagnostic radiology are given below:
+5.1. Responsibilities of Radiologist
+The radiologist should ensure that:
+i. Overall radiation protection of the patient is achieved;
+ii. Exposure of the patient is kept to the minimum required to achieve the intended 
+objective, taking into account the relevant guidance levels for medical exposure;
+iii. Optimized protocols for diagnostic procedures are established;
+iv. Guidance is being provided for examination of the pregnant women, pediatric 
+patients, medico-legal procedures, and occupational health examinations;
+v. Any radiation incident or accident is evaluated and investigated from medical point 
+of view;
+vi. Qualification and training needs of radiation workers including Medical 
+Physicist/RPO and Radiographers are established;
+vii. Appropriate training and retraining of radiation workers (i.e. Medical Physicist/RPO 
+and Radiographers) is arranged periodically.
+5.2. Responsibilities of Medical Physicist/Radiation Protection Officer (RPO)
+The Medical Physicist/RPO is responsible for technical and administrative matters 
+related to radiation protection at the facility. The Medical Physicist/RPO should ensure:
+i. Overall radiation protection of patients at the facility;
+2
+ii. Development of Radiation Protection and Quality Assurance (QA) Program and 
+relevant procedures;
+iii. Implementation of regulatory requirements, Radiation Protection and QA Program 
+and applicable procedures;
+iv. Supervision/conduct of Quality Control (QC) test of X-ray machine(s) and other 
+equipment/accessories;
+v. Training of workers on radiation safety and radiological protection of patients; 
+vi. Maintenance of records relevant to QC of equipment and radiation protection.
+5.3. Responsibilities of Radiographer/Operator
+The main responsibility of the radiographer/operator is to:
+i. Comply with the facility operating procedures;
+ii. Identify the patient correctly by:
+Ÿ Name;
+Ÿ Gender;
+Ÿ ID/ CNIC/ Passport Number; and
+Ÿ Date of birth, address and any unique patient number.
+iii. Verify that the female patient is not pregnant;
+iv. Brief the patient(s) about the procedure, correct positioning and immobilization 
+during exposure;
+v. Use appropriate shielding for patient such as lead apron, gonad shield etc.;
+vi. Perform QC tests under the supervision of Medical Physicist.
+Additionally, operators should:
+i. Be well aware of any dose reduction techniques specific to the equipment; 
+ii. Routinely review their work practices to optimize operational protocols.
+6 FACTORS AFFECTING DOSES IN X-RAYIMAGING PROCEDURES
+ 
+Factors affecting patient doses in all X-ray imaging procedures include beam energy, 
+filtration, collimation, patient size, image processing and expertise of relevant staff. In 
+conventional radiography, one of the important determinants of acceptable patient dose is the 
+use of accurate peak kilo-voltage (kVp). Digital radiography allows much wider range of 
+exposures than conventional radiography for producing diagnostic images. However, 
+operators must be aware of subtle differences in techniques used with digital systems to avoid 
+unnecessary exposure to patients. Mammography requires lower ranges of kVp; different 
+target materials, filters, and screen-film combinations; special attention to breast thickness, 
+composition and compression during the study; and different standards for grids, 
+magnification and optical density. Although, kVp and tube current are important for 
+controlling patient doses in fluoroscopy, however, collimation, source-to-skin and patient-toimage intensifier distances and control of beam-on time also play an important role. Computed 
+3
+Tomography (CT) involves greater patient doses than conventional radiography. Although, 
+primary radiation dose is delivered to smaller volumes, however, dose calculations in CT must 
+account for dose received by the adjacent tissue section(s) as well. 
+6.1. Radiography
+Radiography refers to create a planar image using X-rays. In radiography, Entrance 
+Surface Dose (ESD) is very important factor which is proportional to the tube current, the 
+length of exposure and the square of kVp. Another factor is inverse square law which states that 
+when all other factors are held constant, the dose at any location is inversely proportional to the 
+square of the distance from the source.
+6.1.1 Factors Affecting Dose in Conventional Radiography.
+i. Beam Energy and Filtration: Beam energy primarily depends on kVp selected and 
+the amount of filtration in the beam. Selection of higher kVp increases beam 
+penetrability. In practice, this may allow for use of a lower tube current or a shorter 
+exposure, thereby reducing dose to the patient. It is advisable to use a total filtration 
+(which includes the tube wall and any other added filtration) of at least 2.5 mm of 
+Aluminum equivalent, if machines are operated at tube potentials above 70 kVp. 
+This filtration preferentially absorbs the low energy X-rays in the beam. Without 
+filtration, this low energy radiation may completely be absorbed in the patient's body, 
+thereby contributing to patient dose without contributing to the image. However, 
+added filtration increases the average energy of X-ray beam which results in better 
+image quality. 
+ii. Collimation: During any diagnostic procedure, the area of patient's body exposed 
+should be limited to the area of clinical interest. By using collimation, unnecessary 
+patient exposure can be substantially reduced. It has an added effect by reducing the 
+area of X-ray beam and the amount of scattered radiation that reaches the image 
+receptor thereby increasing the contrast of the final images.
+iii. Grid: Grid is used in radiography to reduce the amount of scattered radiation that 
+reaches the image receptor, and to improve the image contrast. It, at the same time, 
+results in higher patient dose. High quality images, obtained by using grid, may result 
+in fewer retakes, however, more accurate diagnosis.
+iv. Patient Size: With the increase in thickness of the imaging area, kVp should also be 
+increased to obtain required results. Although no control can be exercised over the 
+patient size, however, it is beneficial to know the types of exposures expected for 
+examinations of different anatomical areas and patients of different sizes. Technique 
+charts, that display different radiographic technique factors for various
+examinations, displayed near the operator's console may be helpful in this regard.
+v. Screen-Film Combinations: Use of a faster screen-film combination can
+substantially reduce dose. Faster systems may result in some loss of details. 
+4
+6.1.2 Factors Affecting Dose in Digital Radiography
+Digital Radiography (DR) is the process in which X-ray image is captured through a 
+digital image capture device, saved for future record and is made available for interpretation or 
+further assessment. The advantages of DR over film include; immediate image preview and 
+availability, a wider dynamic range which makes it more forgiving for over and under exposure 
+as well as the ability to apply special image processing techniques that enhance overall display 
+of the image. The largest motivator for healthcare facilities to adopt DR is its potential to 
+reduce costs associated with processing, managing and storing films.
+In digital radiography, there is a trade-off between image quality, noise, and patient dose. 
+Efforts to reduce radiation doses during imaging studies have been traditionally limited by a 
+lower image quality, but the use of digital modalities may offer an opportunity to reduce 
+exposure with images of adequate quality. Many approaches are available to acquire better 
+image quality with minimum possible exposures. One way is to increase kVp with 
+corresponding decrease in milliampere-seconds (mAs) product. This technique increases 
+beam penetration thereby providing adequate exposure to image receptors while reducing 
+relative absorption in patient and therefore, reducing patient dose.
+6.2 Mammography
+Mammography is an X-ray examination of the breast. It is the most reliable method of 
+detecting breast cancer. Its principal purpose is to facilitate the detection of breast cancer at a 
+point earlier in its natural history than is possible by clinical examination. The factors that 
+affect diagnostic radiography also apply to mammography. However, it involves different 
+parameters because of different nature of the tissue being imaged. Generally, the term 
+“Average Glandular Dose" (AGD) is used to describe the dose to a breast tissue in 
+mammography.
+6.2.1 Factors Affecting Dose in Mammography
+i. Beam Energy: The mammographic range of peak kVp is much lower than that used 
+for all other applications of radiography because high contrast is required to image 
+the soft breast tissues. Small differences in beam energy in mammography greatly 
+affect the resulting dose to the patient. 
+ii. Target Material: Different target materials yield X-rays of different energies, 
+therefore, patient dose is affected when different target materials are used. 
+Molybdenum which emits characteristic X-rays of approximately 18 and 20 kV is 
+used as a target material. Recently, Rhodium which emits characteristic X-rays of 
+approximately 23 kV is being used for imaging thick or dense breasts. Tungsten has 
+also been used as a target material. It is useful while imaging thick and dense breast 
+tissues.
+iii. Filter Material: Filters are used to shape the X-ray energy spectrum. Filters absorb 
+5
+low energy X-rays that do not contribute to image formation and high energy X-rays 
+that would degrade image contrast. In mammography, imaging is performed at the 
+characteristic energy of the target material. Therefore, to avail characteristic energy 
+peak of the target material, same material is used as a filter. For example, 
+Molybdenum and Rhodium are used as filter materials along with Molybdenum and 
+Rhodium targets respectively. Molybdenum selectively filters out a high percentage 
+of X-rays with energies more than 20 kV and Rhodium X-rays with energies more 
+than 23 kV. Rhodium filters result in more penetrating X-ray beam and can provide a 
+substantial dose reduction when imaging thick, dense breast tissues.
+iv. Grid: In mammography, grid is used to reduce the amount of scattered radiation that 
+reaches the image receptor. The bucky factor for mammography grid is usually in the 
+range of 2-3.
+v. Magnification: Magnification can be an excellent tool for imaging very small breast 
+lesions but it also increases the AGD. Magnification is achieved by moving the breast 
+further away from the image receptor and closer to the X-ray tube. The increase in the 
+distance of breast from the image receptor and the fact that grid is removed during 
+magnification results in increased AGD.
+vi. Breast Thickness and Tissue Composition: Thickness and composition of breast 
+tissues have substantial impact on patient dose. High energy X-ray beam and longer 
+exposure time are required to obtain acceptable images in case of thick and dense 
+breast tissue and hence results in high AGD.
+vii. Compression: Compression of the breast tissue results in a lower AGD as the 
+thickness is reduced. It also results in more uniform exposure to the breast.
+viii. Image Optical Density: Optical Density (OD) refers to the darkness, or density of the 
+exposed film. If greater optical density is required, more exposure will be needed. 
+Increasing the optical density of films results in higher AGD to patients.
+ix. Screen-Film Combinations: Screen-film combinations of various speeds can also be 
+used in mammography. As in mammograms, greater detail is required, therefore, a 
+slower screen-film combination is used which results in a higher AGD.
+6.3 Fluoroscopy
+Fluoroscopy is used to obtain real-time images for diagnostic purposes and to get 
+guidance for other medical procedures.
+6.3.1 Factors Affecting Dose in Fluoroscopy
+i. Beam Energy and Tube Current: Beam energy (kVp) as well as tube current (mA) 
+plays an important role in patient dose. Higher kVp and lower tube current results in 
+more penetrating beam. Increasing tube current results in increasing the number of 
+photons which ultimately yield to increasing patient dose. Maintaining the highest 
+kVp that will produce acceptable image contrast leads to lower patient dose.
+ii. Collimation: In fluoroscopy collimators are important in considerations of the patient 
+6
+dose. Extended “beam-on” time may be used in fluoroscopy which may result in 
+substantially higher doses to the areas surrounding the area of clinical interest. This 
+potential overexposure can easily be avoided by using small field size required to 
+image the area of interest only. Proper collimation also reduces the contribution of 
+scattered radiation and leads to higher quality images.
+iii. Source-to-Skin Distance:The dose rate of a fluoroscopic X-ray beam as it exits the Xray tube is extremely high. Increasing the source-to-skin distance decreases the dose 
+to patient. Maintaining the maximum possible distance between X-ray source and 
+the patient body is the most effective means of reducing patient dose.
+iv. Patient-to-Image Intensifier Distance: Distance between the patient and the image 
+intensifier also has substantial effect on patient dose. By decreasing the distance, the 
+dose rate of the X-ray beam can be reduced. Decrease in dose rate results in lower 
+cumulative dose to the patient. However, minimizing this distance also means that a 
+large fraction of scattered radiation will contribute to image. It is widely accepted, 
+however, that minimizing patient-to-image intensifier distance is the most preferred 
+method to reduce patient dose.
+v. Image Magnification: Image magnification results in higher patient dose. 
+Magnification can be achieved by two means, namely; geometric and electronic. 
+Geometric magnification is obtained by moving the image intensifier further away 
+from the patient, by moving the X-ray source closer to the patient or both. In 
+electronic magnification of the image, the size of X-ray beam may be restricted to 
+impinge on a portion of the image intensifier only. This technique usually produces 
+an increase in patient dose, although to a smaller degree than geometric 
+magnification.
+vi. Grid: Use of grid in fluoroscopy reduces the amount of scattered radiation and yields 
+images with improved contrast. Patient doses, however, increase by a factor of two or 
+more. In some cases grids may be removed without a substantial loss in image 
+contrast e.g. when the patient is small and when the patient-to-image intensifier 
+distances is sufficiently large.
+vii. Patient Size:Thick patient or dense areas within patient body cause more X-ray beam 
+to be absorbed or scattered. The backscatter factor also contributes to an increased 
+ESD in thicker patients. Operators should realize that ESD accumulates more rapidly 
+in obese patients making them more susceptible to radiation burns.
+viii. Beam–On Time: The amount of dose delivered to a patient is directly proportional to 
+the amount of time the X-ray source is energized, creating a real time image. Use of 
+short intermittent exposures rather than extended continuous exposures also reduce 
+patient dose. Keeping beam-on time to a minimum is the most effective way to 
+reduce the patient dose. It is advisable to maintain written records of beam-on times. 
+These records may prove useful if patient doses are to be estimated.
+6.3.2 Patient Doses in Fluoroscopy
+The dose rate to a patient in fluoroscopy is greatest at the skin. The entrance exposure 
+7
+limit for standard operation of a fluoroscope is 25 mGy/min for normal and 100 mGy/min for 
+high level operation mode [3].
+Appropriate protocols should be available at every facility for physicians to minimize 
+doses to the patients in order to avoid deterministic effects (e.g. burns) and occurrence of 
+stochastic effects (e.g. cancer).
+6.4 Computed Tomography (CT)
+CTstands for computed tomography. The CTscan can reveal anatomic details of internal 
+organs that cannot be seen in conventional X-rays. The X-ray tube spins rapidly around the 
+patient and the X-rays strike numerous detectors after passing through the body. These 
+detectors are connected to sophisticated computers which generate images after image 
+processing. The radiation dose of a CT scanner is much higher than a conventional X-ray, but 
+the information obtained from a CTscan is often much greater.
+Two most commonly reported doses for CT are those delivered during head and body 
+scans. Currently, in latest equipment available in the market, CT Dose Index (CTDI) values are 
+usually provided by the manufacturers.
+Generally, in CT scan, Multi Scan Average Dose (MSAD) ranges from 40 – 60 mGy (4-6 
+rad) for head scans and from 10 – 40 mGy (1-4 rad) for body scans. Whereas, a scout scan 
+usually results in a surface dose of approximately 1 mGy (100 mrad) [4].
+6.4.1 Factors Affecting Dose in Conventional CT
+i. Beam Energy and Filtration: Radiation dose in diagnostic radiology mainly depends 
+on beam energy; the higher the beam energy for an exposure, the higher will be the 
+patient dose. Use of most appropriate kVp for a given examination is important to 
+keep patient doses minimum. The type of filter placed in the X-ray beam also plays 
+an important role in resulting beam energy in CT. These filters may be shaped to 
+present different thicknesses at different points across the X-ray beam. The type of 
+filter used for a specific CT examination is usually determined by the manufacturer 
+and can reduce the ratio of surface dose to midline dose.
+ii. Collimation: Collimation of X-ray beam plays a significant role in patient doses in 
+CT. Effective utilization of pre-patient collimators confine the beam to section 
+thickness intended at the area of interest and keep the doses minimum to the adjacent 
+tissues. Another set of collimators may be positioned post-patient or pre-detector to 
+reduce the amount of scattered radiation that reaches the detector. Images with better 
+contrast and resolution are obtained through this technique which may affect patient 
+dose indirectly.
+iii. Number and Spacing of Adjacent Sections: Patient dose in CT is also affected by the 
+number and spacing of adjacent sections. When more sections are scanned, more 
+volume of tissue is irradiated. The MSAD may increase because of the penumbra 
+8
+resulting from scattered radiation and possible beam divergence. With the increase 
+in ratio between section thickness and section interval, the MSAD also increases 
+because of increasing contributions from neighboring sections.
+iv. Image Quality and Noise: Statistical noise and loss of image contrast as a result of 
+scattered radiation are most important factors affecting image quality. The dose used 
+to acquire the image increases with the decrease in noise. To maintain acceptable 
+levels of noise, the kVp and tube current used to acquire the image may need to be 
+increased.
+6.4.2 Factors Affecting Dose in Spiral CT
+In spiral CT, continuous scanning of patient while the couch is moving through the 
+scanner is possible. A large volume of the tissue can be scanned in a relatively short time in 
+spiral CT. All the variables of traditional CT also apply to spiral CT, however, scan pitch is an 
+additional important factor that must be considered in spiral CT.
+Pitch is a ratio of distance that patient's couch travels during 360º gantry rotation to the 
+section thickness. If the couch travels 10 mm during one rotation and the section thickness is 
+10 mm, the pitch would be 1 (one). The larger the pitch, more tissue can be imaged during the 
+same scan interval.
+For a spiral CT examination with a pitch of 1 (one), the dose to patient should be 
+comparable with the dose delivered in a traditional CTof the same volume of the tissue. Patient 
+dose is inversely proportional to pitch, as the pitch is increased, the dose at any point along the 
+volume of tissue decreases and vice versa.
+6.5 Dental Radiology
+Dental radiography is the process of taking the X-ray images (pictures) of a teeth, bones, 
+and soft tissues around them to help find problems with the teeth. It is one of the most frequent 
+type of radiology procedures performed. Although, exposure associated with dental radiology 
+is relatively low, however, radiological procedure should be justified and optimized to keep 
+the radiation risk as low as reasonably possible. In dental radiology, ESD without backscatter 
+for intraoral examinations and the Dose Width Product (DWP) for panoramic examinations is 
+recommended for the setting of Diagnostic Reference Levels (DRLs) [5].
+6.5.1 Factors Contributing Dose Variation 
+i. Collimation, Field- Size Trimming: Rectangular collimation which approximates the 
+size and shape of the receptor reduces the dose significantly in comparison with 
+circular collimation. A dose reduction exceeding 60% can be achieved in dental 
+radiology by using rectangular collimation.
+ii. Choice of Image Receptor: Digital detectors have the potential for further dose 
+reduction, even compared with F-speed film, provided the repeat rate and use of 
+9
+higher exposure factors than necessary are controlled. The fastest available film 
+consistent with achieving satisfactory diagnostic results should be used. E-speed and 
+F-speed films reduce doses more than 50% compared with D-speed films.
+iii. X-ray Generation and Kilo-voltage: For dental radiology, 65-70 kV is recommended 
+as kilo-voltage of choice in intraoral X-ray sets using AC equipment, with 60 kV for 
+those using DC X-ray sets.
+iv. Filtration: X-ray tube filtration should be sufficient to reduce entrance surface dose 
+to the patient consistent with producing satisfactory image quality. Filtration by 
+aluminum is a key method of reducing skin dose to patients.
+v. Position Indication Device: A position indication device which ensures minimum 
+focus-to-skin distance of 20 cm should be attached to the tube head (e.g. by use of a 
+long collimator/cone as compared to a short conical one).
+6.6 In Utero Exposure in Diagnostic Radiography
+PNRARegulations on Radiation Protection (PAK/904), requires medical practitioners to 
+avoid exposure to abdomen or pelvis of women patients who are or likely to be pregnant. If the 
+exposure to any other body part or even to the abdomen/pelvis is justified, the medical 
+practitioner is required to plan and conduct the exposure appropriately. 
+6.6.1 Factors Affecting Fetal Dose in Diagnostic Radiography
+i. Direct (inside field of view) Exposure: If a fetus is located within the field of view of a 
+particular examination, such as studies of the abdomen, pelvis and lumbar spine, it is 
+exposed directly to primary beam radiation. This situation typically results in the 
+highest fetal doses. Shielding in such situations becomes ineffective because it 
+cannot cover the area being imaged.
+ii. Indirect (outside field of view) Exposure: In case of examinations of skull and 
+extremities, bulk of the exposure received by a fetus is from indirect scattered 
+radiation from maternal tissues. The dose received in this situation is lower than the 
+direct exposure. Shielding in this situation is again of limited value as most of the 
+fetal dose results from internal scatter in the mother.
+6.6.2 Fetal Dose Estimation in Diagnostic Radiography 
+Fetal doses are estimated using the following imaging techniques:
+i. Output intensity (measured in exposure or air kerma) of the X-ray equipment for 
+diagnostic exposures, entrance exposure (or air kerma rate) and fluoroscopic 
+exposures, along with the conditions of the examination should be known;
+ii. The Half-Value Layer (HVL) should be used to determine beam penetrability;
+iii. Information about the conditions of procedure should include the location, number 
+of images taken and radiographic exposure factors;
+iv. For fluoroscopic procedures, the beam-on time and number of digital or cassette spot 
+images taken should also be known;
+10
+v. Patient information should include fetal age at the time of exposure, patient's size 
+and thickness, depth of fetus, and orientation of patient.
+According to the data published in the Article of Radiographics [4], estimated doses to 
+uterus from typical diagnostic procedures are listed in the Table-1.
+The medical/health professionals at a diagnostic radiology facility should be aware of 
+the effect of the factors/technical parameters such as KVp, mAs, collimation etc. on dose and 
+image quality and they should select appropriate parameters, as relevant, such that their 
+combination produce the minimum patient exposure consistent with the acceptable image 
+quality and clinical purpose of the examination.
+6.7 Film Processing
+Patients may undergo repeated X-ray examinations after their initial X-ray radiographs 
+are rejected due to poor image quality. Good quality of radiographs cannot be acquired without 
+proper film processing.
+In manual processing, technical factors, such as developer temperature, developing time 
+and chemistry replenishment, affect the quality of the films and are much more difficult to 
+control. The darkrooms, in manual processing, should be equipped with a timer and 
+11
+EXAMINATION ABSORBED DOSE
+mGy mrad
+Upper Gastrointestinal Tract (GIT) Series 1 100
+Cholecystography 1 100
+Lumbar Spine Radiography 4 400
+Pelvic Radiography 2 200
+Hip and Femur Radiography 3 300
+Retrograde Pyelography 6 600
+Barium Enema Study 10 1000
+Abdominal Radiography (KUB) 2.5 250
+Hysterosalpingography (HSG) 10 1000
+CT
+Ÿ Head
+Ÿ Chest
+Ÿ Abdomen
+Approx 0
+0.16
+30
+Approx 0
+16
+3000
+Table-1 : Estimated Doses to the Uterus from Typical Diagnostic Procedures
+thermometer, and a time-temperature development table which should be followed for 
+processing all the films.
+Automatic film processing is preferred because of less processing time. The film 
+processor should be used according to the manufacturer's recommendations. If temperature, 
+transport rate or replenishment rates differ substantially from the recommended values, the 
+effects on the image quality can be significant which may lead to modification of radiographic 
+techniques that in turn directly affect patient's dose.
+Film processing conditions are also important in mammography. Manufacturer's 
+recommendations for processing should be strictly followed. Deviations can lead to use of 
+improper exposure techniques thereby increasing the patient dose. Another consideration is 
+the length of film-processing cycle which can be either standard or extended. Extended cycle 
+and processing allows a decrease in dose required to produce acceptable images. However, not 
+all mammography films are compatible with extended-cycle processing.
+7 MANAGING PATIENTDOSES
+The factors affecting the management of patient doses are described in the following 
+sections:
+7.1 Developments in Equipments and Accessories
+Technical development that made most significant contribution to patient dose 
+reduction is the intensifying screen. From direct film radiography to modern rare earth 
+phosphors (typically Oxysulphides or Oxybromides of Gadolinium and Lanthanum), dose 
+reduction of a factor of 15-500 have been made possible, depending upon the type of screen 
+and film used. Rare earth screens have three to five times better dose efficiency as compared to 
+Calcium Tungstate screens which are still in common use [7]. Spectral sensitivity of a film 
+should match the emission spectrum of the intensifying screen used. Any mismatch will have 
+financial implications and it may lead to increased radiation doses to the patients. There is thus 
+an immediate scope for dose reduction by switching over to rare earth screens.
+Equipment with unsatisfactory safety and quality features should not be operated. Type 
+approval of X-ray machines and registration may serve as an efficient method of ensuring 
+conformity to specifications. New X-ray equipments may have malfunctions in one or more of 
+their radiological parameters including; kVp, timing, beam congruence or centering and milliampere second linearity of some of their mechanical parameters which can be detected by 
+acceptance testing. A qualified person, preferably a radiology medical physicist, may use 
+these tests to verify that the initial performance of the equipment conforms to the 
+manufacturer's specifications and international standards [8,9]. The person testing the 
+equipment should thoroughly document the results of acceptance tests as those results might 
+be used in part to define the acceptable range of parameters that will be monitored in any 
+subsequent test. If no acceptance testing is carried out, there are 80% chances of starting with a 
+12
+13
+poorly functioning unit.
+After successful installation and acceptance of equipment, QC testing of the equipment 
+must be carried out on an ongoing basis for continued and reliable performance. A medical 
+physicist should perform QC testing of the equipment at a defined frequency to look for 
+changes that may cause degradation of image quality or an increase in radiation exposure to 
+patient.
+Moreover, maintenance policy should be established for the maintenance of older 
+equipment to avoid unnecessary exposures. Replacing/changing some of the accessories may 
+also result in a patient dose reduction. Considerable attention should be given to introduction 
+of Carbon fibers in table tops. Typically the dose can be reduced by 3-15% by changing the 
+table top, 6-12% by changing the front of film cassette and 20-30% by using a grid with carbon 
+fiber covers and fiber interspaces [10]. 
+7.2 Referrals
+Radiological examination is advised by the physicians to establish a diagnosis, however, 
+not all the diagnostic examinations are clinically helpful. Expertise of physician, referring 
+diagnostic examination, can help in saving the potential collective dose. Evidence based 
+medicine has become an accepted practice, along with evidence based radiology.
+The referring physician bears special responsibility and should use guidelines for 
+diagnosis to a greater extent. The referring physician should take into account all clinical 
+aspects regarding management of every patient individually/separately. In difficult cases, they 
+should also consult with their colleagues in radiology in the selection of the most suitable 
+procedure. Other possible procedures with lower or no exposure, such as USG or MRI, should 
+be considered, if and when appropriate, before proceeding to radiological procedures.
+7.3 Education and Training
+The personnel involved in advice and delivery of any radiology examination should be 
+qualified and receive adequate training. The role played by training and education must be 
+emphasized when it comes to the dose reductions possible in the hands of operators, 
+developing expertise to advice manufacturers, making the right choice of equipment at the 
+time of purchase and spreading a culture of radiation protection among the personnel. A
+substantial dose reduction (nearly 40%) can be achieved by training of the staff. This is the 
+responsibility of the licensee to plan and execute effective training and re-training programs 
+for its workers.
+7.4 Dose Guidance Levels
+Patient doses in diagnostic examinations are controlled by restricting dose up to a certain 
+level, specific for an examination, suggesting that the dose is sufficient to create better quality 
+14
+image of human anatomy. Dose guidance levels have been replaced by dose reference levels in 
+recent recommendations of ICRP on radiation protection [11]. The dose guidance levels for 
+conventional radiography, computed tomography and mammography are given in Table-2, 
+Table-3 and Table-4 respectively [3]. 
+Notes: PA: posterior-anterior projection; LAT: lateral projection; LSJ: lumbo-sacral-joint projection; 
+AP: anterior-posterior projection.
+* In air with backscatter, these values are for conventional film-screen combination in the 
+relative speed of 200. For high speed film-screen combinations (400- 600), the values should be 
+reduced by a factor of 2 to 3.
+* Derived from measurements on the axis of rotation in water equivalent phantoms, 15 cm in 
+length and 16 cm (head) and 30 cm (lumbar spine and abdomen) in diameter.
+Examination Entrance Surface Dose per Radiograph* (mGy)
+Lumbar Spine AP
+LAT
+10
+30
+Abdomen, Intravenous Urology 
+and Cholecystography 
+LSJ
+AP
+40
+10
+Pelvis AP 10
+Hip joint AP 10
+Chest PA
+LAT
+0.4
+1.5
+Dental
+LAT
+Periapical
+AP
+PA
+20
+07
+05
+05
+Skull LAT 03
+Table-2 : Dose Guidance Levels for Conventional Radiography
+Examination Multiple Scan Average Dose* (mGy)
+Head 50
+Lumbar Spine 35
+Abdomen 25
+Table-3: Dose Guidance Levels for Computed Tomography 
+* Determined in a 4.5 cm compressed breast consisting of 50 % glandular and 50 % adipose 
+tissue, for film-screen systems and dedicated Mo-target Mo-filter mammography units.
+Dose guidance levels have been established through worldwide survey practices. With 
+the improvement of imaging technology, the radiation doses in an examination can be 
+significantly reduced with good image quality. Furthermore, better performance and selection 
+of proper technique in the same examination for different human beings further reduce the 
+population dose. Many countries all over the world perform periodic surveys to assess the 
+patient doses in diagnostic examinations. On the basis of the results thus obtained, the 
+guidance levels are revised to lower doses.
+7.5 Clinical Dosimetry in Radiology
+Radiation protection of patients undergoing medical X-ray examinations is governed by 
+the principles of justification and optimization. Radiation dosimetry is required to inform 
+medical practitioners of the levels of exposure and hence the risks associated with the 
+diagnostic procedures that they have to justify and to assist the operators of X-ray imaging 
+equipment to determine whether their procedures are optimized. The dosimetric quantities to 
+be considered during diagnostic work are:
+Ÿ ESD for individual radiographs;
+Ÿ Dose-Area Product (DAP) for individual radiographs;
+Ÿ DAPfor complete examinations involving radiography and/or fluoroscopy;
+Ÿ Weighted CT Dose Index (CTDIw) per slice in spiral CT scanning or per rotation in 
+helical CTscanning;
+Ÿ Dose-Length Product (DLP) per complete CTexamination.
+7.5.1 Entrance Surface Dose
+It is the entrance air Kerma with backscatter from patient skin. It is usually expressed in 
+milligray (mGy) and can be measured directly with suitably calibrated TLDs attached to the 
+patient's skin or with ionization chambers supported in free air on the X-ray beam axis, 
+corrected to the Focus Skin Distance (FSD) and by a suitable backscatter factor. It is the 
+quantity of more concern for practical patient dosimetry. Specific X-ray tube output 
+measurements, as a function of tube voltage (kV) and charge (mAs) made during routine 
+quality assurance programs, are frequently used to calculate ESD values from the exposure 
+parameters (kV, mAs, FSD) used for radiographs on a particular patient [12].
+15
+Average Glandular dose (mGy) per Cranio-Caudal Projection* 
+1 (without grid)
+3 (with grid)
+Table-4: Dose Guidance Levels for Mammography
+7.5.2 Dose Area Product
+It is the absorbed dose to air (or the air kerma) averaged over the area of X-ray beam in a 
+plane perpendicular to the beam axis, multiplied by the area of beam (A) in the same plane. It is 
+usually expressed in Gy-cm2 and being invariant with distance from X-ray tube focus, it is 
+conveniently measured with special large area ionization chambers (DAP meters) attached to 
+the diaphragm housing of the X-ray tube, which intercept the entire cross section of the beam. 
+They essentially integrate the absorbed dose over whole beam area for any number of 
+diagnostic or fluoroscopic exposures and can thus provide a single measurement of total 
+amount of radiation used in a complete X-ray examination involving radiography and 
+fluoroscopy. DAPmeters should be calibrated after installation on an X-ray set to take account 
+of the particular scatter conditions and attenuating material between the DAP meter and the 
+patient (e.g. the table top for under-couch X-ray tubes) [12].
+7.5.3 CT Dose Index
+The principal dosimetric quantity used in CT is the CTDI. This is defined as the integral 
+along a line parallel to the axis of rotation (z) of the dose profile [D(z)] for a single rotation and 
+a fixed table position, divided by the nominal thickness of the X-ray beam. CTDI can be 
+conveniently assessed using a pencil ionization chamber with an active length of 100 mm, so 
+as to provide a measurement of CTDI100, expressed in terms of absorbed dose to air (mGy) 
+[13]. 
+Where "n" is the number of tomographic slices, each of nominal thickness "T", imaged 
+during a single rotation.
+7.6 Assessment of Exposure to the Patient at Individual X-ray Facilities
+Patient exposure assessment should always be associated with monitoring image 
+information. Patient exposure and image quality assessments at individual facilities should be 
+carried out on a sample of typical patients.
+Assessment of patient doses serve the following purposes:
+i. Establishing guidance levels (reference levels);
+ii. Comparing doses and dose distributions for the same type of examination, done with 
+different exposure parameters or with different equipment, or in different X-ray 
+rooms or different hospitals or different countries, or to monitor improvement by 
+making comparisons before and after changes;
+iii. Comparing patient exposure for different types of examinations. Effective dose is, 
+therefore, used for comparison; however, the caution of using effective doses for 
+patients as indicated in UNSCEAR should be kept in mind;
+iv. Assessing relative contributions to collective doses from various types of 
+examinations or even comparing medical with non-medical radiation exposure of 
+16
+the population;
+v. Analyzing trends in the use of radiation e.g. change in frequency and dose per 
+examination, introduction of new examination techniques or modification of 
+techniques; and
+vi. Comparison of patient doses with guidance levels to get an idea if doses are on the 
+high side.
+8 REFERENCES
+1. IAEA, "Radiation Doses in Diagnostic Radiology and Methods for Dose 
+Reduction", TECDOC-796, International Atomic Energy Agency (IAEA), Vienna 
+(1995)
+2. UNSCEAR, "Sources and Effects of Ionizing Radiation", Report 2008, Vol.1, 
+United Nations Scientific Committee on the Effects of Atomic Radiation 
+(UNSCEAR), New York (2010)
+3. PNRA, "Regulations on Radiation Protection", PAK/904, Pakistan Nuclear 
+Regulatory Authority (PNRA), October 2004. Publishing, (2001)
+4. Radiographics: 1999 Sept-Oct: 19(5):1289-1302 - The AAPM/RSNA Physics 
+Tutorial for Residents: Typical Patient Radiation Doses in Diagnostic Radiology
+5. ICRP, "International Commission for Radiological Protection". Diagnostic 
+Reference Levels in Medical Imaging: Review and Additional Advice. Ann. ICRP
+31 (33-52) (2001)
+6. EUROPEAN COMMISSION, European Guidelines on Radiation Protection in 
+Dental Radiology, RP136, Luxembourg (2004)
+7. John E. Aldrich, Emerenciana Duran, Pat Dunlop, John R. Mayo "Optimization of 
+Dose and Image Quality for Computed Radiography and Digital Radiography" J 
+Digit Imaging Jun 2006; 19(2): 126-131
+8. Institute of Physics and Engineering in Medicine (IPEM), Measurement of the 
+Performance Characteristics of Diagnostic X-ray Systems Used in Medicine, 
+Report No. 32, Part III: Computed Tomography X-ray Scanners, 2003
+9. American Association of Physicists in Medicine (AAPM), Quality Control in 
+Diagnostic Radiology, AAPM Report No. 74, Madison 2002
+10. Hufton AP, Russell JG. The Use of Carbon Fibre Material in Table Tops, 
+Cassette Fronts and Grid Covers: Magnitude of Possible Dose Reduction. Br J 
+Radiol. 1986 Feb;59(698):157-63
+11. ICRP, "2007 Recommendations of the International Commission on Radiological 
+Protection", ICRP Publication 103, International Commission on Radiological 
+Protection (ICRP), Pergamon Press, Oxford (2008)
+12. B. F. Wall Radiation Protection Dosimetry for Diagnostic Radiology Patients. 
+Radiation Protection Dosimetry, Vol. 109, No. 4, pp. 409-419 (2004)
+13. EC European CT Study Group. European Guidelines on Quality Criteria for 
+Computed Tomography. EUR 16262 (Luxembourg: Office for Official Publications 
+of the European Communities) (1999) 
+17
+GLOSSARY
+ABSORBED DOSE: It is a measure of energy deposited per unit mass and it is measured in 
+units of Gray(Gy) or milli-gray (mGy). 
+BUCKY FACTOR (B): It is the ratio of x-rays arriving at the grid (incident radiation) and 
+those being transmitted through the grid. 
+DOSE LENGTH PRODUCT:It is the CTDI multiplied by the scan length in centimeters.
+ENTRANCE SURFACE DOSE (ESD): It is defined as "the entrance air kerma with 
+backscatter from the patient skin".
+EXPOSURE: It refers to the amount of energy initially transferred from incident X-rays to 
+charged particles per unit mass of air and it is measured in Roentgen ®.
+HALF-VALUE LAYER (HVL): It is thickness of the material at which the intensity of 
+radiation entering is reduced by one half. 
+KERMA: (Kinetic energy released in matter) is defined as the amount of energy transferred 
+from the incident X-rays to charged particles per unit mass in the medium of interest. The unit 
+of air kerma is same as the unit of absorbed dose i.e. Gray or milli-Gray.
+MULTIPLE SCAN AVERAGE DOSE (MSAD): It is the dose from a multiple scan 
+examination, averaged over one scan interval in the central portion of the multiple-scan dose 
+profile.
+TISSUE OR ORGAN DOSE: It refers to radiation absorbed dose delivered to the tissues or 
+organs of a patient during a radiology examination.
+18
+
+PAKISTAN NUCLEAR REGULATORY AUTHORITY
+P.O. Box 1912, Islamabad
+www.pnra.org
+
+
+
+
+
